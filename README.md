@@ -14,12 +14,18 @@ Android, iOS ve web aynı kaynak kodunu kullanır. Bu depo **0.3.0 geliştirme s
 
 ## Çalıştırma
 
-Node.js 22.13 veya üstü gerekir. Proje klasöründe:
+Node.js 22.13 veya üstü ve Git gerekir. Temiz kurulum Node.js 24.21.0 ile kontrol edilmiştir:
 
 ```powershell
+git clone https://github.com/Quecc/KentPusula.git
+cd KentPusula
 npm ci
 npm run web
-# İkinci terminalde EGO bağlantısı:
+```
+
+Web'de EGO bağlantısı için ikinci terminali aynı `KentPusula` klasöründe aç:
+
+```powershell
 npm run transport:server
 ```
 
@@ -71,7 +77,7 @@ npm run build
 
 `npm run build` web dosyaları ile Android/iOS JavaScript/Hermes paketlerini `dist/` içine üretir; imzalı native kurulum paketi değildir. Native cihaz/emülatör testi bu ortamda yapılmadı.
 
-Bağımlılık denetimi mevcut Expo ağacında `uuid` ve `decode-uri-component` kaynaklı orta seviyeli uyarılar bildiriyor. Otomatik öneri SDK'yı eski ana sürümlere düşürüyor; uyumluluğu bozacak zorlamalı düzeltme uygulanmadı. Yayından önce bağımlılıklar yeniden değerlendirilmeli.
+02.10.2026 temiz kurulum denetiminde 11 orta ve 4 yüksek seviyeli bağımlılık uyarısı bildirildi; yüksek uyarılar `node-forge` üzerinden Expo araçlarına taşınıyor. Otomatik öneri Expo'yu 44.0.6'ya düşürüyor; uyumluluğu bozacak zorlamalı düzeltme uygulanmadı. Kurulum ve kontroller başarılı olsa da üretim dağıtımından önce bu uyarılar giderilmeli ve bağımlılıklar yeniden denetlenmelidir.
 
 [Mimari](docs/ARCHITECTURE.md) · [Kaynak defteri](docs/SOURCES.md)
 

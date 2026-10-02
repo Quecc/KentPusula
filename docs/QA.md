@@ -2,6 +2,12 @@
 
 ## 02.10.2026 / 0.3.0
 
+### Temiz GitHub kurulumu
+
+- `Quecc/KentPusula` deposunun bağımsız kopyası Node.js 24.21.0 ile indirildi; `npm ci` başarılı oldu. Başka çalışma klasörlerindeki dosyalara gerek olmadan 35 test, lint ve TypeScript kontrolleri geçti.
+- Temiz kopyada `npm run build` web, Android ve iOS JavaScript/Hermes paketlerini başarıyla üretti. Bu sonuç fiziksel cihaz veya imzalı APK testi değildir.
+- `npm audit` 11 orta ve 4 yüksek uyarı bildirdi. Yüksek uyarılar `node-forge` ve onu kullanan Expo araçlarıyla ilgili; önerilen zorlamalı düzeltme Expo'yu 44.0.6'ya düşürdüğü için uygulanmadı.
+
 ### Akış ve doğruluk revizyonu
 
 - 35 test geçti; son TypeScript ve lint temiz. Android/iOS/web dışa aktarımı tamamlandı. Harita köprüsünün seçim/filtre/merkezleme sırasında tek haritayı ve yakınlaştırmayı koruması VM davranış testleriyle kontrol edildi.
