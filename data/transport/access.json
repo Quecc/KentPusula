@@ -1,0 +1,4175 @@
+{
+  "updated": "2026-10-02",
+  "destinations": [
+    {
+      "id": "millet-kutuphanesi",
+      "kind": "external",
+      "serviceIds": [],
+      "name": "Cumhurbaşkanlığı Millet Kütüphanesi",
+      "address": "Cumhurbaşkanlığı Külliyesi, Beştepe, Yenimahalle / Ankara",
+      "aliases": [
+        "Millet Kütüphanesi",
+        "Beştepe Millet Kütüphanesi",
+        "Cumhurbaşkanlığı"
+      ],
+      "busStops": [
+        {
+          "code": "13123",
+          "name": "Cumhurbaşkanlığı",
+          "position": "Kütüphanenin önünde",
+          "lines": [
+            {
+              "code": "167",
+              "name": "MTA · Emsan Sitesi · Söğütözü",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=167"
+            },
+            {
+              "code": "449",
+              "name": "Akköprü · Millet Kütüphanesi · Gazi",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=449"
+            }
+          ]
+        },
+        {
+          "code": "11415",
+          "name": "Millet Kütüphanesi",
+          "position": "Kütüphanenin karşısında",
+          "lines": [
+            {
+              "code": "339-7",
+              "name": "Ege Mahallesi · Beştepe",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-7"
+            },
+            {
+              "code": "479",
+              "name": "Uyanış · AŞTİ · Beştepe",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=479"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/tr/haber/6275/bestepe-millet-kutuphanesine-ulasim",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "odtu-calisma-istasyonu",
+      "kind": "service",
+      "serviceIds": [
+        "study-odtu",
+        "wifi-odtu"
+      ],
+      "name": "ODTÜ Çalışma İstasyonu",
+      "address": "ODTÜ Metro İstasyonu, Çankaya / Ankara",
+      "aliases": [
+        "ODTÜ A2 Kapısı"
+      ],
+      "busStops": [],
+      "rail": [
+        {
+          "code": "M2",
+          "name": "Kızılay · Koru",
+          "station": "ODTÜ",
+          "sourceUrl": "https://www.ego.gov.tr/sayfa/2109/m2-ankara-metrosu2-kizilay-cayyolu-teknik-ozellikler"
+        }
+      ],
+      "sourceUrl": "https://www.ankara.bel.tr/tesis/calisma-istasyonu-odtu",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "dikimevi-calisma-istasyonu",
+      "kind": "service",
+      "serviceIds": [
+        "study-dikimevi"
+      ],
+      "name": "Dikimevi Çalışma İstasyonu",
+      "address": "Dikimevi ANKARAY İstasyonu, Cebeci / Ankara",
+      "aliases": [
+        "Dikimevi Kitap İstasyonu"
+      ],
+      "busStops": [],
+      "rail": [
+        {
+          "code": "A1",
+          "name": "ANKARAY · Dikimevi · AŞTİ",
+          "station": "Dikimevi",
+          "sourceUrl": "https://www.ego.gov.tr/tr/sayfa/1085/a1-ankaray-dikimeviasti-rayli-toplu-tasim-sistemi"
+        }
+      ],
+      "sourceUrl": "https://www.ego.gov.tr/haber/5941/istasyon-kutuphane-ankaray-dikimevi-istasyonunda-kitapseverlerle-bulusmaya-devam-ediyor",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "kizilay-calisma-istasyonu",
+      "kind": "service",
+      "serviceIds": [
+        "study-kizilay-metro"
+      ],
+      "name": "Kızılay Çalışma İstasyonu",
+      "address": "Kızılay Metro İstasyonu çarşı katı, Çankaya / Ankara",
+      "aliases": [
+        "Kızılay Metro Kitap İstasyonu"
+      ],
+      "busStops": [],
+      "rail": [
+        {
+          "code": "M1/M2/M4",
+          "name": "Ankara Metrosu",
+          "station": "Kızılay",
+          "sourceUrl": "https://www.ego.gov.tr/sss"
+        },
+        {
+          "code": "A1",
+          "name": "ANKARAY · Dikimevi · AŞTİ",
+          "station": "Kızılay",
+          "sourceUrl": "https://www.ego.gov.tr/tr/sayfa/1085/a1-ankaray-dikimeviasti-rayli-toplu-tasim-sistemi"
+        }
+      ],
+      "sourceUrl": "https://www.ego.gov.tr/tr/haber/5839/ego-metro-kitap-istasyonu-1-yasinda",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "asti-kutuphanesi",
+      "kind": "service",
+      "serviceIds": [
+        "study-asti"
+      ],
+      "name": "AŞTİ Kütüphanesi",
+      "address": "AŞTİ terminalinin üst katı, Beştepe / Ankara",
+      "aliases": [],
+      "busStops": [],
+      "rail": [
+        {
+          "code": "A1",
+          "name": "ANKARAY · Dikimevi · AŞTİ",
+          "station": "AŞTİ",
+          "sourceUrl": "https://www.ego.gov.tr/tr/sayfa/1085/a1-ankaray-dikimeviasti-rayli-toplu-tasim-sistemi"
+        }
+      ],
+      "sourceUrl": "https://www.ankara.bel.tr/haberler/abb-kutuphaneleri-baskentlileri-kitaplarin-sessiz-dunyasinda-bulusturuyor-18185",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-100-yil-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-100-yil-cankaya-evi"
+      ],
+      "name": "100. Yıl Çankaya Evi",
+      "address": "İşçi Blokları Mahallesi 1534.Cad. No:3/1",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "10816",
+          "name": "Merkez Çarşı",
+          "position": "Yakında · yaklaşık 110 m",
+          "distanceMeters": 110,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10769801037",
+          "lines": [
+            {
+              "code": "118-2",
+              "name": "100.YIL-ÇUKURAMBAR-GÖLBAŞI TOKİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=118-2"
+            },
+            {
+              "code": "132",
+              "name": "SÖĞÜTÖZÜ METRO-ÇUKURAMBAR YÜZÜNCÜ YIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=132"
+            },
+            {
+              "code": "136",
+              "name": "SÖĞÜTÖZÜ METRO-100.YIL-ÇİĞDEM MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=136"
+            },
+            {
+              "code": "411-7",
+              "name": "(ÖHO) AKTEPE-YÜZÜNCÜYIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=411-7"
+            },
+            {
+              "code": "419",
+              "name": "AKTEPE-İSKİTLER-EMNİYET SARAYI-AŞTİ-ÇUKURAMBAR-YÜZÜNCÜYIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=419"
+            },
+            {
+              "code": "421-7",
+              "name": "(ÖHO) KEÇİÖREN GAZİNO-BAKANLIK-ODTÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=421-7"
+            },
+            {
+              "code": "482-7",
+              "name": "(ÖHO) BADEMLİK-HACIKADIN-YÜZÜNCÜYIL-ODTÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=482-7"
+            }
+          ]
+        },
+        {
+          "code": "13145",
+          "name": "Ezgi Evleri",
+          "position": "Yakında · yaklaşık 130 m",
+          "distanceMeters": 130,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10769801041",
+          "lines": [
+            {
+              "code": "118-2",
+              "name": "100.YIL-ÇUKURAMBAR-GÖLBAŞI TOKİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=118-2"
+            },
+            {
+              "code": "132",
+              "name": "SÖĞÜTÖZÜ METRO-ÇUKURAMBAR YÜZÜNCÜ YIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=132"
+            },
+            {
+              "code": "136",
+              "name": "SÖĞÜTÖZÜ METRO-100.YIL-ÇİĞDEM MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=136"
+            },
+            {
+              "code": "411-7",
+              "name": "(ÖHO) AKTEPE-YÜZÜNCÜYIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=411-7"
+            },
+            {
+              "code": "419",
+              "name": "AKTEPE-İSKİTLER-EMNİYET SARAYI-AŞTİ-ÇUKURAMBAR-YÜZÜNCÜYIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=419"
+            },
+            {
+              "code": "421-7",
+              "name": "(ÖHO) KEÇİÖREN GAZİNO-BAKANLIK-ODTÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=421-7"
+            },
+            {
+              "code": "482-7",
+              "name": "(ÖHO) BADEMLİK-HACIKADIN-YÜZÜNCÜYIL-ODTÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=482-7"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=118-2",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=ca85a9b8-963f-4c04-b812-732f1aba9f1f",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-ayranci-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-ayranci-cankaya-evi"
+      ],
+      "name": "Ayrancı Çankaya Evi",
+      "address": "Kuveyt Caddesi Hüseyin Onat Sokak No:4 AYRANCI",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "12127",
+          "name": "Ant Başkanlığı",
+          "position": "Yakında · yaklaşık 60 m",
+          "distanceMeters": 60,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13584597903",
+          "lines": [
+            {
+              "code": "427",
+              "name": "SUBAYEVLERİ-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-A.AYRANCI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=427"
+            },
+            {
+              "code": "427-7",
+              "name": "(ÖHO) SUBAYEVLERİ-A.AYRANCI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=427-7"
+            }
+          ]
+        },
+        {
+          "code": "12122",
+          "name": "Tomurcuk Sokağı",
+          "position": "Yakında · yaklaşık 190 m",
+          "distanceMeters": 190,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13586447978",
+          "lines": [
+            {
+              "code": "173-1",
+              "name": "ORAN SİT.-GALİP ERDEM CD.-HİLAL MAHALLESİ-HOŞDERE CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=173-1"
+            },
+            {
+              "code": "185-1",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-1"
+            },
+            {
+              "code": "185-3",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-3"
+            },
+            {
+              "code": "185-6",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-6"
+            },
+            {
+              "code": "185-7",
+              "name": "(ÖHO) ORAN SİTESİ-GÜNEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-7"
+            },
+            {
+              "code": "190",
+              "name": "ULUS-HOŞDERE CD.-YEŞİLKENT-KARATAŞ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=190"
+            },
+            {
+              "code": "711",
+              "name": "ÇANKAYA-İSTİNAF MAHKEMESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=711"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=427",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=7cae8227-e985-4c2b-976e-5707262ddf05",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-bademlidere-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-bademlidere-cankaya-evi"
+      ],
+      "name": "Bademlidere Çankaya Evi",
+      "address": "Şemsettin Günaltay Caddesi No:35 Park içi ",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "30170",
+          "name": "Bademli Park",
+          "position": "Yakında · yaklaşık 30 m",
+          "distanceMeters": 30,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14131362531",
+          "lines": [
+            {
+              "code": "333",
+              "name": "İMRAHOR-BADEMLİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=333"
+            },
+            {
+              "code": "381",
+              "name": "TÜRKÖZÜ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381"
+            },
+            {
+              "code": "381-1",
+              "name": "TÜRKÖZÜ-558.CD.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381-1"
+            }
+          ]
+        },
+        {
+          "code": "30838",
+          "name": "Bademli Park",
+          "position": "Yakında · yaklaşık 40 m",
+          "distanceMeters": 40,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14131362532",
+          "lines": [
+            {
+              "code": "324",
+              "name": "EKİN MH.-ÇATAK CD.-ÇİĞİLTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=324"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=333",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=b0e49c82-e937-4e3d-90a0-1b0aa9f27447",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-bayraktar-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-bayraktar-cankaya-evi"
+      ],
+      "name": "Bayraktar Çankaya Evi",
+      "address": "Bayraktar Mahallesi Bayraklı Sokak No:19 GAZİOSMANPAŞA",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "12367",
+          "name": "Küçükesat Bağcılar Aşağı Camii",
+          "position": "Yakında · yaklaşık 60 m",
+          "distanceMeters": 60,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14092989622",
+          "lines": [
+            {
+              "code": "317-7",
+              "name": "(ÖHO) BAĞCILAR-ULUS İÇAYDINLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=317-7"
+            },
+            {
+              "code": "318",
+              "name": "BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318"
+            },
+            {
+              "code": "318-6",
+              "name": "ULUS-SIHHİYE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BAĞCILAR-AKDERE-PEYAMİ SAFA-MUTLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318-6"
+            },
+            {
+              "code": "319",
+              "name": "BAĞCILAR-MUTLU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=319"
+            },
+            {
+              "code": "323",
+              "name": "MUTLU CD.-DEREBOYU CD.-BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=323"
+            }
+          ]
+        },
+        {
+          "code": "30176",
+          "name": "Küçükesat Bağcılar Aşağı Camii",
+          "position": "Yakında · yaklaşık 70 m",
+          "distanceMeters": 70,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14092989623",
+          "lines": [
+            {
+              "code": "317-7",
+              "name": "(ÖHO) BAĞCILAR-ULUS İÇAYDINLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=317-7"
+            },
+            {
+              "code": "318",
+              "name": "BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318"
+            },
+            {
+              "code": "318-6",
+              "name": "ULUS-SIHHİYE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BAĞCILAR-AKDERE-PEYAMİ SAFA-MUTLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318-6"
+            },
+            {
+              "code": "319",
+              "name": "BAĞCILAR-MUTLU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=319"
+            },
+            {
+              "code": "323",
+              "name": "MUTLU CD.-DEREBOYU CD.-BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=323"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=317-7",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=9885bc6c-bac1-4dc0-bfe3-d38b5557d0b6",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-beysukent-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-beysukent-cankaya-evi"
+      ],
+      "name": "Beysukent Çankaya Evi",
+      "address": "Angora Caddesi Cumhuriyet Parkı içi BEYSUKENT",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "10478",
+          "name": "Ayten Şaban Diri Ortaokulu",
+          "position": "Yakında · yaklaşık 140 m",
+          "distanceMeters": 140,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/7095024919",
+          "lines": [
+            {
+              "code": "174",
+              "name": "BEYTEPE METRO-BEYSUKENT ANGORA EVLERİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=174"
+            }
+          ]
+        },
+        {
+          "code": "10464",
+          "name": "Ayten Şaban Diri Ortaokulu",
+          "position": "Yakında · yaklaşık 200 m",
+          "distanceMeters": 200,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/7095024918",
+          "lines": [
+            {
+              "code": "174",
+              "name": "BEYTEPE METRO-BEYSUKENT ANGORA EVLERİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=174"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=174",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=2bb470cd-3450-4bcd-a77d-b0ccbce4c1b2",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-bilkent-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-bilkent-cankaya-evi"
+      ],
+      "name": "Bilkent Çankaya Evi",
+      "address": "1597. Cadde Çamlık Sitesi BİLKENT",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "13135",
+          "name": "Türkiye Emlak Bankası Ortaokulu",
+          "position": "Yakında · yaklaşık 170 m",
+          "distanceMeters": 170,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/11343786547",
+          "lines": [
+            {
+              "code": "110",
+              "name": "BİLKENT METRO İSTASYONU-BİLKENT-BEYTEPE MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=110"
+            },
+            {
+              "code": "111",
+              "name": "BİLKENT-BİLKENT METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=111"
+            }
+          ]
+        },
+        {
+          "code": "13963",
+          "name": "Bilkent Center",
+          "position": "Yakında · yaklaşık 200 m",
+          "distanceMeters": 200,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/11343786546",
+          "lines": [
+            {
+              "code": "110",
+              "name": "BİLKENT METRO İSTASYONU-BİLKENT-BEYTEPE MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=110"
+            },
+            {
+              "code": "111",
+              "name": "BİLKENT-BİLKENT METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=111"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=110",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=7fb130a8-a1e5-4c43-a310-869c9f8b27b9",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-birlik-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-birlik-cankaya-evi"
+      ],
+      "name": "Birlik Çankaya Evi",
+      "address": "Birlik Mahallesi 451. Cad. İsmet İnönü Parkı İçi BİRLİK",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "12423",
+          "name": "Zirvekent Sitesi",
+          "position": "Yakında · yaklaşık 130 m",
+          "distanceMeters": 130,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10663467482",
+          "lines": [
+            {
+              "code": "408",
+              "name": "GÜLPINAR-GÜNEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ATAKULE-BİRLİK MA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=408"
+            }
+          ]
+        },
+        {
+          "code": "12422",
+          "name": "Vadi İkizleri Sitesi",
+          "position": "Yakında · yaklaşık 340 m",
+          "distanceMeters": 340,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/312788068",
+          "lines": [
+            {
+              "code": "301",
+              "name": "DOĞUKENT CAD-TURAN GÜNEŞ BLV.-UFUK ÜNİVERSİTESİ-ATILIM ÜNİVERSİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=301"
+            },
+            {
+              "code": "342",
+              "name": "KAYAŞ-EGE MAHALLESİ-ORAN SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=342"
+            },
+            {
+              "code": "403-6",
+              "name": "GÜLPINAR-GÜNEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ATAKULE-BİRLİK MA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=403-6"
+            },
+            {
+              "code": "413",
+              "name": "ALTINPARK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=413"
+            },
+            {
+              "code": "413-7",
+              "name": "(ÖHO) ALTINPARK-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=413-7"
+            },
+            {
+              "code": "711",
+              "name": "ÇANKAYA-İSTİNAF MAHKEMESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=711"
+            },
+            {
+              "code": "714",
+              "name": "ÇANKAYA-ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=714"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=408",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=0a150f14-83e9-4f3e-9ff8-5464705a2969",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-cebeci-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-cebeci-cankaya-evi"
+      ],
+      "name": "Cebeci Çankaya Evi",
+      "address": "Fakülteler Mahallesi Kutlugün Sokak No:14 CEBECİ",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "30118",
+          "name": "Cebeci",
+          "position": "Yakında · yaklaşık 200 m",
+          "distanceMeters": 200,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10748532734",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            },
+            {
+              "code": "324",
+              "name": "EKİN MH.-ÇATAK CD.-ÇİĞİLTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=324"
+            },
+            {
+              "code": "326",
+              "name": "BAHÇELERÜSTÜ TOKİ-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=326"
+            },
+            {
+              "code": "329",
+              "name": "EKİN MH.-ALTMIŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=329"
+            },
+            {
+              "code": "330",
+              "name": "EGE MH.-LOJMAN-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ABB BİNASI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330"
+            },
+            {
+              "code": "330-2",
+              "name": "ABB BİNASI-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ-LOJMAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330-2"
+            },
+            {
+              "code": "339-5",
+              "name": "(ÖTA) EGE MAHALLESİ-SIHHİYE-KIZILAY-ANKARA ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-5"
+            },
+            {
+              "code": "339-7",
+              "name": "(ÖHO) EGE MH.-BEŞTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-7"
+            },
+            {
+              "code": "340",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340"
+            },
+            {
+              "code": "340-2",
+              "name": "DDY-BEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340-2"
+            },
+            {
+              "code": "341",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341"
+            },
+            {
+              "code": "380",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=380"
+            },
+            {
+              "code": "382",
+              "name": "MUTLU MH.-AKDERE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=382"
+            },
+            {
+              "code": "383",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=383"
+            },
+            {
+              "code": "385-2",
+              "name": "KOLEJ-DİKİMEVİ-PEYAMİSAFA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=385-2"
+            }
+          ]
+        },
+        {
+          "code": "30122",
+          "name": "Dikimevi",
+          "position": "Yakında · yaklaşık 260 m",
+          "distanceMeters": 260,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10748532735",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            },
+            {
+              "code": "321",
+              "name": "KARAPÜRÇEK-ESKİYOL-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=321"
+            },
+            {
+              "code": "321-6",
+              "name": "15 TEM.KIZ.MİLLİ İRADE MEYDANI-SIH.-ULUS-KARPRÇK-BEŞİKKAYA-BAŞAK MAH-ALTM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=321-6"
+            },
+            {
+              "code": "324",
+              "name": "EKİN MH.-ÇATAK CD.-ÇİĞİLTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=324"
+            },
+            {
+              "code": "326",
+              "name": "BAHÇELERÜSTÜ TOKİ-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=326"
+            },
+            {
+              "code": "329",
+              "name": "EKİN MH.-ALTMIŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=329"
+            },
+            {
+              "code": "330",
+              "name": "EGE MH.-LOJMAN-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ABB BİNASI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330"
+            },
+            {
+              "code": "334",
+              "name": "ZİRVEKENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334"
+            },
+            {
+              "code": "334-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS-MAMAK-BOĞAZİÇİ-AKŞEMSETT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334-6"
+            },
+            {
+              "code": "338",
+              "name": "EGE MAHALLESİ-846.CD.-MAMAK-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=338"
+            },
+            {
+              "code": "339-5",
+              "name": "(ÖTA) EGE MAHALLESİ-SIHHİYE-KIZILAY-ANKARA ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-5"
+            },
+            {
+              "code": "339-7",
+              "name": "(ÖHO) EGE MH.-BEŞTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-7"
+            },
+            {
+              "code": "340",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340"
+            },
+            {
+              "code": "341",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341"
+            },
+            {
+              "code": "341-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULUS-EGE MH.-MİSKET MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341-6"
+            },
+            {
+              "code": "343",
+              "name": "ALTIAĞAÇ-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=343"
+            },
+            {
+              "code": "349",
+              "name": "ARAPLAR-DERBENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=349"
+            },
+            {
+              "code": "350",
+              "name": "TEPECİK-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=350"
+            },
+            {
+              "code": "351",
+              "name": "AKŞEMSETTİN-SU DEPOSU-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=351"
+            },
+            {
+              "code": "353",
+              "name": "BOĞAZİÇİ-4.CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=353"
+            },
+            {
+              "code": "355",
+              "name": "ZERDALİTEPE-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355"
+            },
+            {
+              "code": "355-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULS-ZERDALİTEPE-YEŞİLBAYIR-MAMAK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355-6"
+            },
+            {
+              "code": "357",
+              "name": "KIBRISKÖYÜ-SAĞDUYU CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=357"
+            },
+            {
+              "code": "361",
+              "name": "YEŞİLBAYIR-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=361"
+            },
+            {
+              "code": "365",
+              "name": "MİSKET MH.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=365"
+            },
+            {
+              "code": "367",
+              "name": "ŞİRİNTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=367"
+            },
+            {
+              "code": "377",
+              "name": "ŞAHAPGÜRLER-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=377"
+            },
+            {
+              "code": "380",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=380"
+            },
+            {
+              "code": "382",
+              "name": "MUTLU MH.-AKDERE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=382"
+            },
+            {
+              "code": "383",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=383"
+            },
+            {
+              "code": "392",
+              "name": "DOĞANTEPE-4 CD.-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=392"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=a113d3e7-9fc7-4ad5-9915-b5ac71333330",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-dilekler-ve-50-yil-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-dilekler-ve-50-yil-cankaya-evi"
+      ],
+      "name": "Dilekler Ve 50.yıl Çankaya Evi",
+      "address": "Kıbrıs Cad. No:63/1 50. Yıl Mahallesi DİLEKLER",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "30159",
+          "name": "Arka Topraklık Mahallesi",
+          "position": "Yakında · yaklaşık 230 m",
+          "distanceMeters": 230,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14131362552",
+          "lines": [
+            {
+              "code": "333",
+              "name": "İMRAHOR-BADEMLİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=333"
+            },
+            {
+              "code": "381",
+              "name": "TÜRKÖZÜ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381"
+            },
+            {
+              "code": "381-1",
+              "name": "TÜRKÖZÜ-558.CD.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381-1"
+            },
+            {
+              "code": "384",
+              "name": "MUTLU-AKDERE-ŞEHİT AYHAN BABADAĞ CD.-KOLEJ-KURTULUŞ-RİNG",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=384"
+            },
+            {
+              "code": "731",
+              "name": "MAMAK BÖLGE ADLİYE-BALGAT EK BİNA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=731"
+            }
+          ]
+        },
+        {
+          "code": "30158",
+          "name": "İncesu İmam Hatip Orta Okulu",
+          "position": "Yakında · yaklaşık 240 m",
+          "distanceMeters": 240,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14131362553",
+          "lines": [
+            {
+              "code": "333",
+              "name": "İMRAHOR-BADEMLİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=333"
+            },
+            {
+              "code": "381",
+              "name": "TÜRKÖZÜ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381"
+            },
+            {
+              "code": "381-1",
+              "name": "TÜRKÖZÜ-558.CD.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381-1"
+            },
+            {
+              "code": "384",
+              "name": "MUTLU-AKDERE-ŞEHİT AYHAN BABADAĞ CD.-KOLEJ-KURTULUŞ-RİNG",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=384"
+            },
+            {
+              "code": "731",
+              "name": "MAMAK BÖLGE ADLİYE-BALGAT EK BİNA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=731"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=333",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=16c22ec8-b582-4a90-844d-c69255d2c907",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-emek-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-emek-cankaya-evi"
+      ],
+      "name": "Emek Çankaya Evi",
+      "address": "28. Sokak Kapalı Pazar Yeri Yanı EMEK",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11433",
+          "name": "Bahçelievler",
+          "position": "Yakında · yaklaşık 290 m",
+          "distanceMeters": 290,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/4775785937",
+          "lines": [
+            {
+              "code": "102-2",
+              "name": "ATILIM ÜNİVERSİTESİ-AKKÖPRÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=102-2"
+            },
+            {
+              "code": "104-1",
+              "name": "GÖLBAŞI-AKKÖPRÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=104-1"
+            },
+            {
+              "code": "106-3",
+              "name": "GÖLBAŞI-YURTLAR-AŞTİ-AKKÖPRÜ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=106-3"
+            },
+            {
+              "code": "107-6",
+              "name": "GÖLBAŞI-TOKİ-AŞTİ-AKKÖPRÜ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=107-6"
+            },
+            {
+              "code": "114",
+              "name": "GÖLBAŞI YURTLAR-AŞTİ-AKKÖPRÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=114"
+            },
+            {
+              "code": "114-1",
+              "name": "GÖLBAŞI-KAMPÜS-YURTLAR-AŞTİ-AKKÖPRÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=114-1"
+            },
+            {
+              "code": "150-1",
+              "name": "1.BÖLGE YERLEŞKESİ-KONYA YOLU-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=150-1"
+            },
+            {
+              "code": "157",
+              "name": "OPERA-GÖLBAŞI-OYACA MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=157"
+            },
+            {
+              "code": "158",
+              "name": "AŞTİ-HAYMANA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=158"
+            },
+            {
+              "code": "158-3",
+              "name": "(ÖTA) ANKARA-HAYMANA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=158-3"
+            },
+            {
+              "code": "158-5",
+              "name": "(ÖTA) TEPEKÖY-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=158-5"
+            },
+            {
+              "code": "163-2",
+              "name": "İNCEK-AŞTİ-AKKÖPRÜ-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=163-2"
+            },
+            {
+              "code": "165-1",
+              "name": "GÖLBAŞI TOKİ-AKKÖPRÜ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=165-1"
+            },
+            {
+              "code": "178",
+              "name": "AŞTİ-BALA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=178"
+            },
+            {
+              "code": "178-3",
+              "name": "(ÖTA) BALA-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=178-3"
+            },
+            {
+              "code": "179-3",
+              "name": "(ÖTA) AFŞAR-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=179-3"
+            },
+            {
+              "code": "198-1",
+              "name": "GÖLBAŞI-HAYMANA YOLU-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=198-1"
+            },
+            {
+              "code": "309",
+              "name": "KARAPÜRÇEK-YENİYOL-ULUS-GAR-BEŞEVLER-AŞTİ-ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=309"
+            },
+            {
+              "code": "419",
+              "name": "AKTEPE-İSKİTLER-EMNİYET SARAYI-AŞTİ-ÇUKURAMBAR-YÜZÜNCÜYIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=419"
+            },
+            {
+              "code": "432",
+              "name": "AŞTİ-İLÇE ARAÇLARI DEPOLAMA ALANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=432"
+            },
+            {
+              "code": "445",
+              "name": "SOLFASOL-BAHÇELİEVLER-AŞTİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=445"
+            },
+            {
+              "code": "450",
+              "name": "GÜLPINAR-GÜNEŞEVLER-SİTELER-İSKİTLER-EMNİYET SARAYI-ANKARA ŞEHİR HAST.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=450"
+            },
+            {
+              "code": "484",
+              "name": "PURSAKLAR-TEKNİKOKULLAR-BEŞEVLER-AŞTİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=484"
+            },
+            {
+              "code": "506-2",
+              "name": "BEŞEVLER-SİNCAN AHİ MESUD BLV.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=506-2"
+            },
+            {
+              "code": "513-2",
+              "name": "BEŞEVLER-SİNCAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=513-2"
+            },
+            {
+              "code": "518-2",
+              "name": "BEŞEVLER-FATİH",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=518-2"
+            },
+            {
+              "code": "519-2",
+              "name": "BEŞEVLER-GOP(FATİH)",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=519-2"
+            },
+            {
+              "code": "528-3",
+              "name": "(ÖTA) ANKARA-POLATLI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=528-3"
+            },
+            {
+              "code": "543-2",
+              "name": "BEŞEVLER-ERYAMAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=543-2"
+            },
+            {
+              "code": "752",
+              "name": "YAŞAMKENT-BALGAT-ANKARA ADALET SARAYI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=752"
+            },
+            {
+              "code": "754",
+              "name": "FATİH-ERYAMAN-ANKARA ADALET SARAYI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=754"
+            },
+            {
+              "code": "761",
+              "name": "YENİKENT-İCRA MAHKEMESİ-BALGAT ADLİYESİ-SIHHİYE ADLİYESİ-DIŞKAPI ADLİYESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=761"
+            }
+          ]
+        },
+        {
+          "code": "11431",
+          "name": "Zübeyde Hanım Yurt Müdürlüğü",
+          "position": "Yakında · yaklaşık 310 m",
+          "distanceMeters": 310,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/4650878376",
+          "lines": [
+            {
+              "code": "102-1",
+              "name": "AKKÖPRÜ-ATILIM ÜNİVERSİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=102-1"
+            },
+            {
+              "code": "104-2",
+              "name": "AKKÖPRÜ-GÖLBAŞI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=104-2"
+            },
+            {
+              "code": "114-2",
+              "name": "AKKÖPRÜ-AŞTİ-GÖLBAŞI-KAMPÜS-YURTLAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=114-2"
+            },
+            {
+              "code": "150-2",
+              "name": "ULUS-KONYA YOLU-1.BÖLGE YERLEŞKESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=150-2"
+            },
+            {
+              "code": "157",
+              "name": "OPERA-GÖLBAŞI-OYACA MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=157"
+            },
+            {
+              "code": "158",
+              "name": "AŞTİ-HAYMANA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=158"
+            },
+            {
+              "code": "158-3",
+              "name": "(ÖTA) ANKARA-HAYMANA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=158-3"
+            },
+            {
+              "code": "158-5",
+              "name": "(ÖTA) TEPEKÖY-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=158-5"
+            },
+            {
+              "code": "159-5",
+              "name": "(ÖTA) ŞEREFLİKOÇHİSAR-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=159-5"
+            },
+            {
+              "code": "165-2",
+              "name": "AKKÖPRÜ-GÖLBAŞI TOKİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=165-2"
+            },
+            {
+              "code": "178",
+              "name": "AŞTİ-BALA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=178"
+            },
+            {
+              "code": "178-3",
+              "name": "(ÖTA) BALA-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=178-3"
+            },
+            {
+              "code": "179-3",
+              "name": "(ÖTA) AFŞAR-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=179-3"
+            },
+            {
+              "code": "198-2",
+              "name": "GÖLBAŞI-HAYMANA YOLU-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=198-2"
+            },
+            {
+              "code": "309",
+              "name": "KARAPÜRÇEK-YENİYOL-ULUS-GAR-BEŞEVLER-AŞTİ-ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=309"
+            },
+            {
+              "code": "339-7",
+              "name": "(ÖHO) EGE MH.-BEŞTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-7"
+            },
+            {
+              "code": "419",
+              "name": "AKTEPE-İSKİTLER-EMNİYET SARAYI-AŞTİ-ÇUKURAMBAR-YÜZÜNCÜYIL",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=419"
+            },
+            {
+              "code": "432",
+              "name": "AŞTİ-İLÇE ARAÇLARI DEPOLAMA ALANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=432"
+            },
+            {
+              "code": "450",
+              "name": "GÜLPINAR-GÜNEŞEVLER-SİTELER-İSKİTLER-EMNİYET SARAYI-ANKARA ŞEHİR HAST.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=450"
+            },
+            {
+              "code": "479",
+              "name": "UYANIŞ-PINARBAŞI-İSKİTLER-EMNİYET SARAYI-AŞTİ-BEŞTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=479"
+            },
+            {
+              "code": "506-1",
+              "name": "SİNCAN AHİ MESUD BLV.-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=506-1"
+            },
+            {
+              "code": "513-1",
+              "name": "SİNCAN-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=513-1"
+            },
+            {
+              "code": "518-1",
+              "name": "FATİH-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=518-1"
+            },
+            {
+              "code": "519-1",
+              "name": "GOP(FATİH)-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=519-1"
+            },
+            {
+              "code": "528-3",
+              "name": "(ÖTA) ANKARA-POLATLI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=528-3"
+            },
+            {
+              "code": "543-1",
+              "name": "ERYAMAN-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=543-1"
+            },
+            {
+              "code": "726",
+              "name": "KEÇİÖREN-ADLİYE SERVİSİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=726"
+            },
+            {
+              "code": "752",
+              "name": "YAŞAMKENT-BALGAT-ANKARA ADALET SARAYI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=752"
+            },
+            {
+              "code": "754",
+              "name": "FATİH-ERYAMAN-ANKARA ADALET SARAYI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=754"
+            },
+            {
+              "code": "761",
+              "name": "YENİKENT-İCRA MAHKEMESİ-BALGAT ADLİYESİ-SIHHİYE ADLİYESİ-DIŞKAPI ADLİYESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=761"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=102-2",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=3968eb24-4e53-466a-bc26-2066c4f66585",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-esat-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-esat-cankaya-evi"
+      ],
+      "name": "Esat Çankaya Evi",
+      "address": "Muhsin Ertuğrul Mahallesi Bülbülderesi Caddesi No:131 ESAT",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "13077",
+          "name": "Esat Zabıta",
+          "position": "Yakında · yaklaşık 60 m",
+          "distanceMeters": 60,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14092989640",
+          "lines": [
+            {
+              "code": "318",
+              "name": "BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318"
+            },
+            {
+              "code": "318-6",
+              "name": "ULUS-SIHHİYE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BAĞCILAR-AKDERE-PEYAMİ SAFA-MUTLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318-6"
+            },
+            {
+              "code": "319",
+              "name": "BAĞCILAR-MUTLU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=319"
+            },
+            {
+              "code": "323",
+              "name": "MUTLU CD.-DEREBOYU CD.-BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=323"
+            }
+          ]
+        },
+        {
+          "code": "12353",
+          "name": "Ümmügülsüm Apartmanı",
+          "position": "Yakında · yaklaşık 140 m",
+          "distanceMeters": 140,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/3092961192",
+          "lines": [
+            {
+              "code": "160",
+              "name": "ULUS-KIZILAY-SEYRANBAĞLARI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=160"
+            },
+            {
+              "code": "317-7",
+              "name": "(ÖHO) BAĞCILAR-ULUS İÇAYDINLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=317-7"
+            },
+            {
+              "code": "318",
+              "name": "BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318"
+            },
+            {
+              "code": "318-6",
+              "name": "ULUS-SIHHİYE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BAĞCILAR-AKDERE-PEYAMİ SAFA-MUTLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318-6"
+            },
+            {
+              "code": "319",
+              "name": "BAĞCILAR-MUTLU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=319"
+            },
+            {
+              "code": "323",
+              "name": "MUTLU CD.-DEREBOYU CD.-BAĞCILAR-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-OPERA-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=323"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=318",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=bb8a74d8-79bd-4fc4-807e-66fea1cb2d75",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-hasan-ali-yucel-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-hasan-ali-yucel-cankaya-evi"
+      ],
+      "name": "Hasan Ali Yücel Çankaya Evi",
+      "address": "Çiğdem Mahallesi 1551. Cad. Park Sitesi Karşısı No: 21 BALGAT",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "10851",
+          "name": "Park Sitesi",
+          "position": "Yakında · yaklaşık 60 m",
+          "distanceMeters": 60,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10772101342",
+          "lines": [
+            {
+              "code": "133",
+              "name": "ÇİĞDEM MAHALLESİ-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=133"
+            },
+            {
+              "code": "134",
+              "name": "SÖĞÜTÖZÜ METRO İST.-Ç.AMBAR-ÇİĞDEM MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=134"
+            },
+            {
+              "code": "136",
+              "name": "SÖĞÜTÖZÜ METRO-100.YIL-ÇİĞDEM MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=136"
+            }
+          ]
+        },
+        {
+          "code": "10815",
+          "name": "Mavikent Sitesi",
+          "position": "Yakında · yaklaşık 170 m",
+          "distanceMeters": 170,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10772101343",
+          "lines": [
+            {
+              "code": "133",
+              "name": "ÇİĞDEM MAHALLESİ-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=133"
+            },
+            {
+              "code": "134",
+              "name": "SÖĞÜTÖZÜ METRO İST.-Ç.AMBAR-ÇİĞDEM MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=134"
+            },
+            {
+              "code": "136",
+              "name": "SÖĞÜTÖZÜ METRO-100.YIL-ÇİĞDEM MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=136"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=133",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=b9cdac66-bfb7-40a3-bff9-df84dd470c4a",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-ismail-cem-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-ismail-cem-cankaya-evi"
+      ],
+      "name": "İsmail Cem Çankaya Evi",
+      "address": "Özgecan Aslan Parkı İçi Ali Fuat Cebesoy Sok. No:4 ORAN",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "13895",
+          "name": "Özgecan Arslan Parkı",
+          "position": "Yakında · yaklaşık 60 m",
+          "distanceMeters": 60,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13992431511",
+          "lines": [
+            {
+              "code": "153",
+              "name": "OPERA-BALGAT-GÖKKUŞAĞI MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=153"
+            }
+          ]
+        },
+        {
+          "code": "11215",
+          "name": "Rafet Canıtez Cd.",
+          "position": "Yakında · yaklaşık 210 m",
+          "distanceMeters": 210,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/11749333231",
+          "lines": [
+            {
+              "code": "135-1",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=135-1"
+            },
+            {
+              "code": "173-1",
+              "name": "ORAN SİT.-GALİP ERDEM CD.-HİLAL MAHALLESİ-HOŞDERE CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=173-1"
+            },
+            {
+              "code": "185-1",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-1"
+            },
+            {
+              "code": "185-3",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-3"
+            },
+            {
+              "code": "185-6",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-6"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=153",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=2d486fe6-11e9-46f0-a9f2-acae76bac170",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-karapinar-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-karapinar-cankaya-evi"
+      ],
+      "name": "Karapınar Çankaya Evi",
+      "address": "Karapınar Mah. 844. Cad. No:7 KARAPINAR",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11015",
+          "name": "Bademlik",
+          "position": "Yakında · yaklaşık 110 m",
+          "distanceMeters": 110,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13983504334",
+          "lines": [
+            {
+              "code": "145-2",
+              "name": "ULUS-ATATÜRK SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-2"
+            },
+            {
+              "code": "145-7",
+              "name": "(ÖHO) ATATÜRK SİTESİ-ULUS-ATAPARK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-7"
+            },
+            {
+              "code": "154-2",
+              "name": "ULUS-SOKULLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=154-2"
+            },
+            {
+              "code": "155-2",
+              "name": "ULUS-SOKULLU CD.-ATATÜRK SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-2"
+            },
+            {
+              "code": "155-6",
+              "name": "ATATÜRK SİTESİ-SOKULLU CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-6"
+            },
+            {
+              "code": "712",
+              "name": "DİKMEN-İSTİNAF MAHKEMESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=712"
+            },
+            {
+              "code": "713",
+              "name": "DİKMEN-ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=713"
+            }
+          ]
+        },
+        {
+          "code": "11005",
+          "name": "Bademlik",
+          "position": "Yakında · yaklaşık 130 m",
+          "distanceMeters": 130,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13983504325",
+          "lines": [
+            {
+              "code": "145-1",
+              "name": "ATATÜRK SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-1"
+            },
+            {
+              "code": "145-7",
+              "name": "(ÖHO) ATATÜRK SİTESİ-ULUS-ATAPARK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-7"
+            },
+            {
+              "code": "154-1",
+              "name": "SOKULLU-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=154-1"
+            },
+            {
+              "code": "155-1",
+              "name": "ATATÜRK SİTESİ-SOKULLU CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-1"
+            },
+            {
+              "code": "155-6",
+              "name": "ATATÜRK SİTESİ-SOKULLU CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-6"
+            },
+            {
+              "code": "712",
+              "name": "DİKMEN-İSTİNAF MAHKEMESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=712"
+            },
+            {
+              "code": "713",
+              "name": "DİKMEN-ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=713"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-2",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=b7c56489-1042-4e85-8e81-17558068a3c8",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-kirkkonaklar-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-kirkkonaklar-cankaya-evi"
+      ],
+      "name": "Kırkkonaklar Çankaya Evi",
+      "address": "Kırkkonaklar Mahallesi 329. Cad. No:16/1 KIRKKONAKLAR ",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "13519",
+          "name": "Bilal-i Habeş-i Camii",
+          "position": "Yakında · yaklaşık 170 m",
+          "distanceMeters": 170,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14065936058",
+          "lines": [
+            {
+              "code": "303",
+              "name": "450.CD-K.KONAKLAR-GOP-KUĞULU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=303"
+            },
+            {
+              "code": "304",
+              "name": "K.KONAKLAR-GOP-KUĞULU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=304"
+            }
+          ]
+        },
+        {
+          "code": "13522",
+          "name": "Bilal-i Habeş-i Camii",
+          "position": "Yakında · yaklaşık 180 m",
+          "distanceMeters": 180,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14065936057",
+          "lines": [
+            {
+              "code": "303",
+              "name": "450.CD-K.KONAKLAR-GOP-KUĞULU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=303"
+            },
+            {
+              "code": "304",
+              "name": "K.KONAKLAR-GOP-KUĞULU-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=304"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=303",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=b8379644-ebbf-4088-ab6c-cdfc5ee86ef1",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-maltepe-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-maltepe-cankaya-evi"
+      ],
+      "name": "Maltepe Çankaya Evi",
+      "address": "Şehit Gönenç Caddesi, Çankaya Belediyesi Maltepe Yerleşkesi ANITTEPE",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11582",
+          "name": "Maltepe Camii",
+          "position": "Yakında · yaklaşık 130 m",
+          "distanceMeters": 130,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/12615604647",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            }
+          ]
+        },
+        {
+          "code": "11570",
+          "name": "Maltepe Cami",
+          "position": "Yakında · yaklaşık 320 m",
+          "distanceMeters": 320,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/4639694392",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            },
+            {
+              "code": "330",
+              "name": "EGE MH.-LOJMAN-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ABB BİNASI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330"
+            },
+            {
+              "code": "330-2",
+              "name": "ABB BİNASI-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ-LOJMAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330-2"
+            },
+            {
+              "code": "340",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340"
+            },
+            {
+              "code": "340-2",
+              "name": "DDY-BEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340-2"
+            },
+            {
+              "code": "341",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341"
+            },
+            {
+              "code": "380",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=380"
+            },
+            {
+              "code": "383",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=383"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=117bc26c-4e9c-45e6-9098-d3fe9145cac6",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-mimar-sinan-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-mimar-sinan-cankaya-evi"
+      ],
+      "name": "Mimar Sinan Çankaya Evi",
+      "address": "Mimar Sinan Mahallesi 115. Cadde sonu 133. Sokak No:34  ",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "13871",
+          "name": "Mimar Sinan Ortaokulu",
+          "position": "Yakında · yaklaşık 30 m",
+          "distanceMeters": 30,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13995731944",
+          "lines": [
+            {
+              "code": "160",
+              "name": "ULUS-KIZILAY-SEYRANBAĞLARI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=160"
+            }
+          ]
+        },
+        {
+          "code": "13870",
+          "name": "Çankaya Anadolu Lisesi",
+          "position": "Yakında · yaklaşık 310 m",
+          "distanceMeters": 310,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13995731943",
+          "lines": [
+            {
+              "code": "160",
+              "name": "ULUS-KIZILAY-SEYRANBAĞLARI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=160"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=160",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=e69b20fb-663c-4af0-9fa9-1365c1c2b83c",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-mursel-uluc-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-mursel-uluc-cankaya-evi"
+      ],
+      "name": "Mürsel Uluç Çankaya Evi",
+      "address": "Mürsel Uluç Mahallesi 1. Cadde 974. Sokak No:8 Haydar Aliyev Parkı İçi  İLKER",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11066",
+          "name": "İsmet İnönü Parkı",
+          "position": "Yakında · yaklaşık 150 m",
+          "distanceMeters": 150,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14019823956",
+          "lines": [
+            {
+              "code": "183-2",
+              "name": "ULUS-İLKER SİNAN CD.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=183-2"
+            },
+            {
+              "code": "183-6",
+              "name": "İLKER-SİNAN CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=183-6"
+            }
+          ]
+        },
+        {
+          "code": "11074",
+          "name": "İsmet İnönü Parkı",
+          "position": "Yakında · yaklaşık 180 m",
+          "distanceMeters": 180,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14019823952",
+          "lines": [
+            {
+              "code": "183-1",
+              "name": "İLKER SİNAN CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=183-1"
+            },
+            {
+              "code": "183-6",
+              "name": "İLKER-SİNAN CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=183-6"
+            },
+            {
+              "code": "186-1",
+              "name": "İLKER SİNAN CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=186-1"
+            },
+            {
+              "code": "187-1",
+              "name": "İLKER-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=187-1"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=183-2",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=4837d60a-0ec9-4bb6-a8f0-1eceb840db98",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-mutlukent-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-mutlukent-cankaya-evi"
+      ],
+      "name": "Mutlukent Çankaya Evi",
+      "address": "Mutlukent Mahallesi 1936. Cadde BEYSUKENT",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "10490",
+          "name": "Mak-İş Sitesi",
+          "position": "Yakında · yaklaşık 40 m",
+          "distanceMeters": 40,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/5065591639",
+          "lines": [
+            {
+              "code": "570",
+              "name": "ÜMİTKÖY METRO İST-ÜMİTKÖY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=570"
+            },
+            {
+              "code": "570-1",
+              "name": "ÜMİTKÖY METRO İSTASYONU-ÜMİT MAHALLESİ-S.SALTOĞLU BLV.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=570-1"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=570",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=0cb393f7-ac4a-4ba8-ab59-99e8a4147dd3",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-nazim-hikmet-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-nazim-hikmet-cankaya-evi"
+      ],
+      "name": "Nazım Hikmet Çankaya Evi",
+      "address": "Çankaya / Ankara",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11106",
+          "name": "Öveçler Vadisi",
+          "position": "Yakında · yaklaşık 210 m",
+          "distanceMeters": 210,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/4875706924",
+          "lines": [
+            {
+              "code": "451",
+              "name": "ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÖVEÇLER-KABİL CD.-1112.CD.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=451"
+            },
+            {
+              "code": "454",
+              "name": "ÖRNEK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÖVEÇLER-LİZBON CD.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=454"
+            },
+            {
+              "code": "454-5",
+              "name": "(ÖTA) ÖRNEK-ULUS-SIHHİYE-KIZILAY-ÖVEÇLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=454-5"
+            },
+            {
+              "code": "454-6",
+              "name": "ÖRNEK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÖVEÇLER-LİZBON CD.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=454-6"
+            },
+            {
+              "code": "711",
+              "name": "ÇANKAYA-İSTİNAF MAHKEMESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=711"
+            }
+          ]
+        },
+        {
+          "code": "11108",
+          "name": "Salkım Söğüt Sokağı",
+          "position": "Yakında · yaklaşık 210 m",
+          "distanceMeters": 210,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13992424569",
+          "lines": [
+            {
+              "code": "154-2",
+              "name": "ULUS-SOKULLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=154-2"
+            },
+            {
+              "code": "155-2",
+              "name": "ULUS-SOKULLU CD.-ATATÜRK SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-2"
+            },
+            {
+              "code": "155-6",
+              "name": "ATATÜRK SİTESİ-SOKULLU CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-6"
+            },
+            {
+              "code": "203-7",
+              "name": "(ÖHO) İNCİRLİ-SOKULLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=203-7"
+            },
+            {
+              "code": "713",
+              "name": "DİKMEN-ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=713"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=451",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=c1ee7cc5-c502-42a8-a832-2e4e50b45de9",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-sokullu-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-sokullu-cankaya-evi"
+      ],
+      "name": "Sokullu Çankaya Evi",
+      "address": "Sokullu Mehmet Paşa Cd. İlke Sk. No:107 Dikmen",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11139",
+          "name": "Ahmet Arif Parkı",
+          "position": "Yakında · yaklaşık 40 m",
+          "distanceMeters": 40,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13992424560",
+          "lines": [
+            {
+              "code": "154-1",
+              "name": "SOKULLU-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=154-1"
+            },
+            {
+              "code": "155-1",
+              "name": "ATATÜRK SİTESİ-SOKULLU CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-1"
+            },
+            {
+              "code": "155-6",
+              "name": "ATATÜRK SİTESİ-SOKULLU CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-6"
+            },
+            {
+              "code": "203-7",
+              "name": "(ÖHO) İNCİRLİ-SOKULLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=203-7"
+            },
+            {
+              "code": "713",
+              "name": "DİKMEN-ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=713"
+            }
+          ]
+        },
+        {
+          "code": "11138",
+          "name": "Ahmet Arif Parkı",
+          "position": "Yakında · yaklaşık 80 m",
+          "distanceMeters": 80,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13992424573",
+          "lines": [
+            {
+              "code": "154-2",
+              "name": "ULUS-SOKULLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=154-2"
+            },
+            {
+              "code": "155-2",
+              "name": "ULUS-SOKULLU CD.-ATATÜRK SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-2"
+            },
+            {
+              "code": "155-6",
+              "name": "ATATÜRK SİTESİ-SOKULLU CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=155-6"
+            },
+            {
+              "code": "203-7",
+              "name": "(ÖHO) İNCİRLİ-SOKULLU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=203-7"
+            },
+            {
+              "code": "713",
+              "name": "DİKMEN-ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=713"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=154-1",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=a8737a13-a682-49d1-9f83-4b54fe554db9",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-turkkonut-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-turkkonut-cankaya-evi"
+      ],
+      "name": "Türkkonut Çankaya Evi",
+      "address": "Dodurga Mah.  Yeşilpark Sitesi Türkkonut    No:58-1/C-D ÇAYYOLU",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "12867",
+          "name": "Kaçkar Caddesi",
+          "position": "Yakında · yaklaşık 320 m",
+          "distanceMeters": 320,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13237834898",
+          "lines": [
+            {
+              "code": "598-1",
+              "name": "KORU METRO İST.-TÜRKKONUT-DODURGA MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=598-1"
+            }
+          ]
+        },
+        {
+          "code": "12876",
+          "name": "Kaçkar Caddesi",
+          "position": "Yakında · yaklaşık 340 m",
+          "distanceMeters": 340,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13237834899",
+          "lines": [
+            {
+              "code": "598",
+              "name": "KORU METRO İST.-TÜRKKONUT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=598"
+            },
+            {
+              "code": "598-1",
+              "name": "KORU METRO İST.-TÜRKKONUT-DODURGA MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=598-1"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=598-1",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=21d8cd18-ae96-4f5c-a65a-a1549f18d09b",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-yildiz-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-yildiz-cankaya-evi"
+      ],
+      "name": "Yıldız  Çankaya Evi",
+      "address": "Sancak Mahallesi Tiflis Caddesi ile 516. Sok. Kesişimi YILDIZ",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "12291",
+          "name": "Nurçin Sayan İlkokulu",
+          "position": "Yakında · yaklaşık 80 m",
+          "distanceMeters": 80,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/4065224323",
+          "lines": [
+            {
+              "code": "109-1",
+              "name": "GÖLBAŞI-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=109-1"
+            },
+            {
+              "code": "116-1",
+              "name": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=116-1"
+            },
+            {
+              "code": "135-1",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=135-1"
+            },
+            {
+              "code": "185-1",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-1"
+            },
+            {
+              "code": "185-3",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-3"
+            },
+            {
+              "code": "185-6",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-6"
+            },
+            {
+              "code": "185-7",
+              "name": "(ÖHO) ORAN SİTESİ-GÜNEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-7"
+            }
+          ]
+        },
+        {
+          "code": "12318",
+          "name": "Nurçin Sayan İlkokulu",
+          "position": "Yakında · yaklaşık 130 m",
+          "distanceMeters": 130,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13958236483",
+          "lines": [
+            {
+              "code": "109-2",
+              "name": "ÇANKAYA-GÖLBAŞI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=109-2"
+            },
+            {
+              "code": "116-2",
+              "name": "ULUS-ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=116-2"
+            },
+            {
+              "code": "135-2",
+              "name": "ULUS-ORAN SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=135-2"
+            },
+            {
+              "code": "185-2",
+              "name": "ULUS-ORAN SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-2"
+            },
+            {
+              "code": "185-6",
+              "name": "ORAN SİTESİ-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-6"
+            },
+            {
+              "code": "185-7",
+              "name": "(ÖHO) ORAN SİTESİ-GÜNEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-7"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=109-1",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=c87452c0-8dd2-48bb-bcda-e1bd135ba616",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-zubeyde-hanim-cankaya-evi",
+      "kind": "service",
+      "serviceIds": [
+        "place-zubeyde-hanim-cankaya-evi"
+      ],
+      "name": "Zübeyde Hanım Çankaya Evi",
+      "address": "Yıldızevler Mahallesi Şehit Mustafa Doğan Caddesi No: 4",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "12190",
+          "name": "Zübeyde Hanım Sosyal Tesisleri",
+          "position": "Yakında · yaklaşık 80 m",
+          "distanceMeters": 80,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14000052817",
+          "lines": [
+            {
+              "code": "173-2",
+              "name": "ULUS-HOŞDERE CD.-HİLAL MAHALLESİ-ORAN SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=173-2"
+            }
+          ]
+        },
+        {
+          "code": "12194",
+          "name": "Zübeyde Hanım Sosyal Tesisleri",
+          "position": "Yakında · yaklaşık 100 m",
+          "distanceMeters": 100,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14000052809",
+          "lines": [
+            {
+              "code": "173-1",
+              "name": "ORAN SİT.-GALİP ERDEM CD.-HİLAL MAHALLESİ-HOŞDERE CD.-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=173-1"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=173-2",
+      "coordinateSourceUrl": "https://kentrehberi.cankaya.bel.tr/OnemliNoktaGosterByGuid?guid=4ba5feb2-abca-41d8-8a4a-6a94d7704f18",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-altindag-genclik-merkezi",
+      "kind": "service",
+      "serviceIds": [
+        "place-altindag-genclik-merkezi"
+      ],
+      "name": "Altındağ Gençlik Merkezi",
+      "address": "Örnek Mahallesi Altındağ Caddesi No:31 Dışkapı/Altındağ",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "30431",
+          "name": "Veteriner Fakültesi",
+          "position": "Yakında · yaklaşık 170 m",
+          "distanceMeters": 170,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13960189389",
+          "lines": [
+            {
+              "code": "114-7",
+              "name": "(ÖHO) KIRKKONAKLAR-ŞENYURT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=114-7"
+            },
+            {
+              "code": "185-7",
+              "name": "(ÖHO) ORAN SİTESİ-GÜNEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-7"
+            },
+            {
+              "code": "317-7",
+              "name": "(ÖHO) BAĞCILAR-ULUS İÇAYDINLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=317-7"
+            },
+            {
+              "code": "325",
+              "name": "EKİN MH.-BOSTANCIK-YILDIRIM BEYAZIT-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=325"
+            },
+            {
+              "code": "391",
+              "name": "D.TEPE 2.CD-ULUS-SIHHİYE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI KUĞULU-GOP",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=391"
+            },
+            {
+              "code": "403-6",
+              "name": "GÜLPINAR-GÜNEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ATAKULE-BİRLİK MA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=403-6"
+            },
+            {
+              "code": "408",
+              "name": "GÜLPINAR-GÜNEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ATAKULE-BİRLİK MA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=408"
+            },
+            {
+              "code": "413",
+              "name": "ALTINPARK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=413"
+            },
+            {
+              "code": "413-7",
+              "name": "(ÖHO) ALTINPARK-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=413-7"
+            },
+            {
+              "code": "427",
+              "name": "SUBAYEVLERİ-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-A.AYRANCI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=427"
+            },
+            {
+              "code": "427-7",
+              "name": "(ÖHO) SUBAYEVLERİ-A.AYRANCI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=427-7"
+            },
+            {
+              "code": "437",
+              "name": "PURSAKLAR-MİMAR SİNAN MH.-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=437"
+            },
+            {
+              "code": "438",
+              "name": "PURSAKLAR-KAFKASLAR-BAĞLUM-TAŞTEPE-YAVUZ BLV.-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=438"
+            },
+            {
+              "code": "439",
+              "name": "PURSAKLAR-AYYILDIZ MH.-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=439"
+            },
+            {
+              "code": "439-5",
+              "name": "(ÖTA) PURSAKLAR-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=439-5"
+            },
+            {
+              "code": "439-6",
+              "name": "PURSAKLAR-AYYILDIZ MH.-ULUS-BAKANLIKLAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=439-6"
+            },
+            {
+              "code": "440",
+              "name": "PURSAKLAR-MERKEZ MH.-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=440"
+            },
+            {
+              "code": "443",
+              "name": "VAKIF MH.-TOKİ-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=443"
+            },
+            {
+              "code": "444",
+              "name": "SIHHİYE-ULUS-KARAKÖY-KARACÖREN-ALTINOVA-GİCİK-PEÇENEK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=444"
+            },
+            {
+              "code": "445",
+              "name": "SOLFASOL-BAHÇELİEVLER-AŞTİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=445"
+            },
+            {
+              "code": "446",
+              "name": "SOLFASOL-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=446"
+            },
+            {
+              "code": "447",
+              "name": "BARAJ MESİRE ALANI-KUZEYKENT 11.-12.ETAP-MELİKŞAH CD.HASKÖY-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=447"
+            },
+            {
+              "code": "450",
+              "name": "GÜLPINAR-GÜNEŞEVLER-SİTELER-İSKİTLER-EMNİYET SARAYI-ANKARA ŞEHİR HAST.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=450"
+            },
+            {
+              "code": "464",
+              "name": "SUBAYEVLERİ-ULUS-EMEK-BAHÇELİEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=464"
+            },
+            {
+              "code": "468",
+              "name": "AKYURT-KIZIK MH.-BALIKHİSAR-BÜĞDÜZ-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=468"
+            },
+            {
+              "code": "472",
+              "name": "AYBÜ-SARAY FATİH MH.-KARYAĞDI-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=472"
+            },
+            {
+              "code": "477",
+              "name": "AYBÜ-MAHMUDİYE-SARAY-KAYMAKAMLIK-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=477"
+            },
+            {
+              "code": "484",
+              "name": "PURSAKLAR-TEKNİKOKULLAR-BEŞEVLER-AŞTİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=484"
+            },
+            {
+              "code": "485",
+              "name": "SIHHİYE-ULUS-GÜZELHİSAR-ALTINOVA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=485"
+            },
+            {
+              "code": "486",
+              "name": "AYBÜ-SARAY-KAYMAKAMLIK-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=486"
+            },
+            {
+              "code": "486-6",
+              "name": "YILDIRIM BEYAZIT ÜNİV.-DUMLUPINAR-SARAY-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=486-6"
+            },
+            {
+              "code": "487",
+              "name": "ÇUBUK-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=487"
+            },
+            {
+              "code": "487-3",
+              "name": "(ÖTA) ÇUBUK-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=487-3"
+            },
+            {
+              "code": "488",
+              "name": "AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488"
+            },
+            {
+              "code": "488-3",
+              "name": "(ÖTA) AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-3"
+            },
+            {
+              "code": "489-5",
+              "name": "(ÖTA) SİRKELİ-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=489-5"
+            },
+            {
+              "code": "490",
+              "name": "ULUS-KALECİK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=490"
+            },
+            {
+              "code": "490-3",
+              "name": "(ÖTA) KALECİK-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=490-3"
+            },
+            {
+              "code": "490-8",
+              "name": "(ÖTA) KALECİK CEZA İNFAZ KURUMU-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=490-8"
+            },
+            {
+              "code": "492",
+              "name": "KUZEYKENT 10.ETAP-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=492"
+            },
+            {
+              "code": "493",
+              "name": "KUZEYKENT-SELÇUKBEY CD.-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=493"
+            },
+            {
+              "code": "494",
+              "name": "KUZEYKENT 16.ETAP-11.ETAP-HASKÖY-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=494"
+            }
+          ]
+        },
+        {
+          "code": "40168",
+          "name": "Veteriner Fakültesi",
+          "position": "Yakında · yaklaşık 190 m",
+          "distanceMeters": 190,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13960189390",
+          "lines": [
+            {
+              "code": "114-7",
+              "name": "(ÖHO) KIRKKONAKLAR-ŞENYURT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=114-7"
+            },
+            {
+              "code": "185-7",
+              "name": "(ÖHO) ORAN SİTESİ-GÜNEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=185-7"
+            },
+            {
+              "code": "317-7",
+              "name": "(ÖHO) BAĞCILAR-ULUS İÇAYDINLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=317-7"
+            },
+            {
+              "code": "325",
+              "name": "EKİN MH.-BOSTANCIK-YILDIRIM BEYAZIT-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=325"
+            },
+            {
+              "code": "391",
+              "name": "D.TEPE 2.CD-ULUS-SIHHİYE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI KUĞULU-GOP",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=391"
+            },
+            {
+              "code": "403-6",
+              "name": "GÜLPINAR-GÜNEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ATAKULE-BİRLİK MA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=403-6"
+            },
+            {
+              "code": "405-1",
+              "name": "AKTEPE-494.CD.-DIŞKAPI METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=405-1"
+            },
+            {
+              "code": "408",
+              "name": "GÜLPINAR-GÜNEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ATAKULE-BİRLİK MA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=408"
+            },
+            {
+              "code": "413",
+              "name": "ALTINPARK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=413"
+            },
+            {
+              "code": "413-7",
+              "name": "(ÖHO) ALTINPARK-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=413-7"
+            },
+            {
+              "code": "418-1",
+              "name": "AKTEPE-BURSA CD.-431.CD.-DIŞKAPI METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=418-1"
+            },
+            {
+              "code": "427",
+              "name": "SUBAYEVLERİ-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-A.AYRANCI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=427"
+            },
+            {
+              "code": "427-7",
+              "name": "(ÖHO) SUBAYEVLERİ-A.AYRANCI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=427-7"
+            },
+            {
+              "code": "437",
+              "name": "PURSAKLAR-MİMAR SİNAN MH.-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=437"
+            },
+            {
+              "code": "438",
+              "name": "PURSAKLAR-KAFKASLAR-BAĞLUM-TAŞTEPE-YAVUZ BLV.-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=438"
+            },
+            {
+              "code": "438-1",
+              "name": "PURSAKLAR-KAFKASLAR-BAĞLUM-TAŞTEPE-YAVUZ BLV.-DIŞKAPI METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=438-1"
+            },
+            {
+              "code": "439",
+              "name": "PURSAKLAR-AYYILDIZ MH.-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=439"
+            },
+            {
+              "code": "439-5",
+              "name": "(ÖTA) PURSAKLAR-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ÇANKAYA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=439-5"
+            },
+            {
+              "code": "439-6",
+              "name": "PURSAKLAR-AYYILDIZ MH.-ULUS-BAKANLIKLAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=439-6"
+            },
+            {
+              "code": "440",
+              "name": "PURSAKLAR-MERKEZ MH.-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=440"
+            },
+            {
+              "code": "441-1",
+              "name": "PURSAKLAR-BELEDİYE CD.-KARACAÖREN-SANAYİ-TOKİ-DIŞKAPI METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=441-1"
+            },
+            {
+              "code": "443",
+              "name": "VAKIF MH.-TOKİ-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=443"
+            },
+            {
+              "code": "443-1",
+              "name": "VAKIF MH.-TOKİ-DIŞKAPI METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=443-1"
+            },
+            {
+              "code": "444",
+              "name": "SIHHİYE-ULUS-KARAKÖY-KARACÖREN-ALTINOVA-GİCİK-PEÇENEK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=444"
+            },
+            {
+              "code": "446",
+              "name": "SOLFASOL-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=446"
+            },
+            {
+              "code": "446-1",
+              "name": "SOLFASOL-DIŞKAPI METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=446-1"
+            },
+            {
+              "code": "447",
+              "name": "BARAJ MESİRE ALANI-KUZEYKENT 11.-12.ETAP-MELİKŞAH CD.HASKÖY-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=447"
+            },
+            {
+              "code": "447-1",
+              "name": "BARAJ MESİRE ALANI-KUZEYKENT 11.-12.ETAP-MELİKŞAH CD.HASKÖY-DIŞKAPI METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=447-1"
+            },
+            {
+              "code": "464",
+              "name": "SUBAYEVLERİ-ULUS-EMEK-BAHÇELİEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=464"
+            },
+            {
+              "code": "468",
+              "name": "AKYURT-KIZIK MH.-BALIKHİSAR-BÜĞDÜZ-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=468"
+            },
+            {
+              "code": "472",
+              "name": "AYBÜ-SARAY FATİH MH.-KARYAĞDI-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=472"
+            },
+            {
+              "code": "477",
+              "name": "AYBÜ-MAHMUDİYE-SARAY-KAYMAKAMLIK-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=477"
+            },
+            {
+              "code": "485",
+              "name": "SIHHİYE-ULUS-GÜZELHİSAR-ALTINOVA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=485"
+            },
+            {
+              "code": "486",
+              "name": "AYBÜ-SARAY-KAYMAKAMLIK-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=486"
+            },
+            {
+              "code": "486-6",
+              "name": "YILDIRIM BEYAZIT ÜNİV.-DUMLUPINAR-SARAY-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=486-6"
+            },
+            {
+              "code": "487",
+              "name": "ÇUBUK-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=487"
+            },
+            {
+              "code": "487-3",
+              "name": "(ÖTA) ÇUBUK-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=487-3"
+            },
+            {
+              "code": "488",
+              "name": "AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488"
+            },
+            {
+              "code": "488-3",
+              "name": "(ÖTA) AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-3"
+            },
+            {
+              "code": "489-5",
+              "name": "(ÖTA) SİRKELİ-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=489-5"
+            },
+            {
+              "code": "490",
+              "name": "ULUS-KALECİK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=490"
+            },
+            {
+              "code": "490-3",
+              "name": "(ÖTA) KALECİK-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=490-3"
+            },
+            {
+              "code": "490-8",
+              "name": "(ÖTA) KALECİK CEZA İNFAZ KURUMU-ANKARA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=490-8"
+            },
+            {
+              "code": "492",
+              "name": "KUZEYKENT 10.ETAP-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=492"
+            },
+            {
+              "code": "493",
+              "name": "KUZEYKENT-SELÇUKBEY CD.-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=493"
+            },
+            {
+              "code": "494",
+              "name": "KUZEYKENT 16.ETAP-11.ETAP-HASKÖY-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=494"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=114-7",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/altindag-genclik-merkezi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-akyurt-aile-yasam-merkezi",
+      "kind": "service",
+      "serviceIds": [
+        "place-akyurt-aile-yasam-merkezi"
+      ],
+      "name": "Akyurt Aile Yaşam Merkezi",
+      "address": "Beyazıt Mahallesi 9 Mayıs 90 Caddesi No: 1 Akyurt",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "40997",
+          "name": "Akyurt Aile Yaşam",
+          "position": "Yakında · yaklaşık 110 m",
+          "distanceMeters": 110,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14050376442",
+          "lines": [
+            {
+              "code": "468",
+              "name": "AKYURT-KIZIK MH.-BALIKHİSAR-BÜĞDÜZ-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=468"
+            },
+            {
+              "code": "488",
+              "name": "AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488"
+            },
+            {
+              "code": "488-3",
+              "name": "(ÖTA) AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-3"
+            },
+            {
+              "code": "488-4",
+              "name": "(ÖTA) AKYURT-HASKÖY-DÖRTYOL-SİTELER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-4"
+            },
+            {
+              "code": "488-5",
+              "name": "(ÖTA) AKYURT-İVEDİK O.S.B.-OSTİM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-5"
+            }
+          ]
+        },
+        {
+          "code": "40994",
+          "name": "Akyurt Aile Yaşam",
+          "position": "Yakında · yaklaşık 110 m",
+          "distanceMeters": 110,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14050376443",
+          "lines": [
+            {
+              "code": "468",
+              "name": "AKYURT-KIZIK MH.-BALIKHİSAR-BÜĞDÜZ-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=468"
+            },
+            {
+              "code": "469",
+              "name": "AKYURT-ÇİFTLİKKÖY-KARAHÖYÜK-DEĞİRMENKAYA-HASAYAZ-YEŞİLÖZ-KUYUCAK-KOYUNBABA-ŞEMSETTİNKÖY-BEYKAVAĞI-EŞ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=469"
+            },
+            {
+              "code": "488",
+              "name": "AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488"
+            },
+            {
+              "code": "488-3",
+              "name": "(ÖTA) AKYURT-ALTINOVA-ULUS-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-3"
+            },
+            {
+              "code": "488-4",
+              "name": "(ÖTA) AKYURT-HASKÖY-DÖRTYOL-SİTELER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-4"
+            },
+            {
+              "code": "488-5",
+              "name": "(ÖTA) AKYURT-İVEDİK O.S.B.-OSTİM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=488-5"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=468",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/akyurt-aile-yasam-merkezi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-esertepe-aile-yasam-merkezi",
+      "kind": "service",
+      "serviceIds": [
+        "place-esertepe-aile-yasam-merkezi"
+      ],
+      "name": "Esertepe Aile Yaşam Merkezi",
+      "address": "Esertepe Mahallesi Şehit Mustafa Ercigez Caddesi No: 3 Keçiören",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "21474",
+          "name": "Ulu Cami",
+          "position": "Yakında · yaklaşık 110 m",
+          "distanceMeters": 110,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13945921429",
+          "lines": [
+            {
+              "code": "285",
+              "name": "ESERTEPE-KAZIMKARABEKİR-KIZILAY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=285"
+            }
+          ]
+        },
+        {
+          "code": "21475",
+          "name": "Ulu Cami",
+          "position": "Yakında · yaklaşık 130 m",
+          "distanceMeters": 130,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/4631410293",
+          "lines": [
+            {
+              "code": "285",
+              "name": "ESERTEPE-KAZIMKARABEKİR-KIZILAY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=285"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=285",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/esertepe-aile-yasam-merkezi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-kecioren-kadin-danisma-birimi",
+      "kind": "service",
+      "serviceIds": [
+        "place-kecioren-kadin-danisma-birimi"
+      ],
+      "name": "Keçiören Kadın Danışma Birimi",
+      "address": "Pınarbaşı, Aşıkpaşa Cd. Pk:06280, 06310 Keçıören/Ankara",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "21056",
+          "name": "Şehit Ahmet Özsoy Kız İmam Hatip Okulu",
+          "position": "Yakında · yaklaşık 120 m",
+          "distanceMeters": 120,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13985794667",
+          "lines": [
+            {
+              "code": "145-7",
+              "name": "(ÖHO) ATATÜRK SİTESİ-ULUS-ATAPARK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-7"
+            }
+          ]
+        },
+        {
+          "code": "20975",
+          "name": "Ankara Atatürk Sanatoryum Eğitim ve Araştırma Hastanesi",
+          "position": "Yakında · yaklaşık 200 m",
+          "distanceMeters": 200,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13754881371",
+          "lines": [
+            {
+              "code": "145-7",
+              "name": "(ÖHO) ATATÜRK SİTESİ-ULUS-ATAPARK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-7"
+            },
+            {
+              "code": "225-2",
+              "name": "OSTİM-İVEDİK OSB-İNCİRLİ-BAĞLUM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=225-2"
+            },
+            {
+              "code": "264",
+              "name": "BAĞLUM-UFUKTEPE-ŞEHİTLER METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=264"
+            },
+            {
+              "code": "266",
+              "name": "BAĞLUM-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BAKANLIKLAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=266"
+            },
+            {
+              "code": "266-2",
+              "name": "BAĞLUM-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BAKANLIKLAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=266-2"
+            },
+            {
+              "code": "266-4",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ULUS-OKULLAR-BAĞLUM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=266-4"
+            },
+            {
+              "code": "266-6",
+              "name": "BAĞLUM-ULUS-15 TEMMUZ KIZILAY MİLLİ İRADE MAYDANI-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=266-6"
+            },
+            {
+              "code": "268",
+              "name": "BAĞLUM-GAR-KIZILAY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=268"
+            },
+            {
+              "code": "268-1",
+              "name": "BAĞLUM-ŞEHİTLER METRO İSTASYONU",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=268-1"
+            },
+            {
+              "code": "269-2",
+              "name": "SIHHİYE-UFUKTEPE(EKSPRES)",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=269-2"
+            },
+            {
+              "code": "460",
+              "name": "UYANIŞ-PINARBAŞI-SANATORYUM CD.-ŞEHİTLER METRO İST.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=460"
+            },
+            {
+              "code": "726-1",
+              "name": "ADLİYE SERVİSİ-KEÇİÖREN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=726-1"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=145-7",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/kecioren-kadin-danisma-birimi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-safaktepe-kadin-danisma-birimi",
+      "kind": "service",
+      "serviceIds": [
+        "place-safaktepe-kadin-danisma-birimi"
+      ],
+      "name": "Şafaktepe Kadın Danışma Birimi",
+      "address": "Şafaktepe Mah. Şafaktepe Parkı İçi Mamak/Ankara",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "30143",
+          "name": "Şehitlik",
+          "position": "Yakında · yaklaşık 40 m",
+          "distanceMeters": 40,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/1199358767",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "321-6",
+              "name": "15 TEM.KIZ.MİLLİ İRADE MEYDANI-SIH.-ULUS-KARPRÇK-BEŞİKKAYA-BAŞAK MAH-ALTM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=321-6"
+            },
+            {
+              "code": "326",
+              "name": "BAHÇELERÜSTÜ TOKİ-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=326"
+            },
+            {
+              "code": "329",
+              "name": "EKİN MH.-ALTMIŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=329"
+            },
+            {
+              "code": "334",
+              "name": "ZİRVEKENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334"
+            },
+            {
+              "code": "334-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS-MAMAK-BOĞAZİÇİ-AKŞEMSETT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334-6"
+            },
+            {
+              "code": "338",
+              "name": "EGE MAHALLESİ-846.CD.-MAMAK-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=338"
+            },
+            {
+              "code": "343",
+              "name": "ALTIAĞAÇ-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=343"
+            },
+            {
+              "code": "349",
+              "name": "ARAPLAR-DERBENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=349"
+            },
+            {
+              "code": "350",
+              "name": "TEPECİK-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=350"
+            },
+            {
+              "code": "351",
+              "name": "AKŞEMSETTİN-SU DEPOSU-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=351"
+            },
+            {
+              "code": "352",
+              "name": "KUTLUDÜĞÜN-MAMAK-OPERA-GAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=352"
+            },
+            {
+              "code": "352-1",
+              "name": "KUTLUDÜĞÜN-YUNUS EMRE CD.-MAMAK-OPERA-GAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=352-1"
+            },
+            {
+              "code": "353",
+              "name": "BOĞAZİÇİ-4.CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=353"
+            },
+            {
+              "code": "355",
+              "name": "ZERDALİTEPE-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355"
+            },
+            {
+              "code": "355-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULS-ZERDALİTEPE-YEŞİLBAYIR-MAMAK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355-6"
+            },
+            {
+              "code": "357",
+              "name": "KIBRISKÖYÜ-SAĞDUYU CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=357"
+            },
+            {
+              "code": "359",
+              "name": "GÖKÇEYURT-ORTAKÖY-KIZILCAKÖY-MAMAK-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=359"
+            },
+            {
+              "code": "359-1",
+              "name": "GÖKÇEYURT-ORTAKÖY-ORTAKÖY MEZARLIĞI-KIZILCAKÖY-MAMAK-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=359-1"
+            },
+            {
+              "code": "361",
+              "name": "YEŞİLBAYIR-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=361"
+            },
+            {
+              "code": "363",
+              "name": "KUSUNLAR-MAMAK-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=363"
+            },
+            {
+              "code": "374",
+              "name": "ZERDALİTEPE-MAMAK-DİKİMEVİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=374"
+            },
+            {
+              "code": "377",
+              "name": "ŞAHAPGÜRLER-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=377"
+            }
+          ]
+        },
+        {
+          "code": "30146",
+          "name": "Şehitlik",
+          "position": "Yakında · yaklaşık 40 m",
+          "distanceMeters": 40,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/1199359357",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "321-6",
+              "name": "15 TEM.KIZ.MİLLİ İRADE MEYDANI-SIH.-ULUS-KARPRÇK-BEŞİKKAYA-BAŞAK MAH-ALTM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=321-6"
+            },
+            {
+              "code": "326",
+              "name": "BAHÇELERÜSTÜ TOKİ-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=326"
+            },
+            {
+              "code": "329",
+              "name": "EKİN MH.-ALTMIŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=329"
+            },
+            {
+              "code": "334",
+              "name": "ZİRVEKENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334"
+            },
+            {
+              "code": "334-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS-MAMAK-BOĞAZİÇİ-AKŞEMSETT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334-6"
+            },
+            {
+              "code": "338",
+              "name": "EGE MAHALLESİ-846.CD.-MAMAK-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=338"
+            },
+            {
+              "code": "343",
+              "name": "ALTIAĞAÇ-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=343"
+            },
+            {
+              "code": "349",
+              "name": "ARAPLAR-DERBENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=349"
+            },
+            {
+              "code": "350",
+              "name": "TEPECİK-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=350"
+            },
+            {
+              "code": "351",
+              "name": "AKŞEMSETTİN-SU DEPOSU-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=351"
+            },
+            {
+              "code": "352",
+              "name": "KUTLUDÜĞÜN-MAMAK-OPERA-GAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=352"
+            },
+            {
+              "code": "352-1",
+              "name": "KUTLUDÜĞÜN-YUNUS EMRE CD.-MAMAK-OPERA-GAR",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=352-1"
+            },
+            {
+              "code": "353",
+              "name": "BOĞAZİÇİ-4.CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=353"
+            },
+            {
+              "code": "355",
+              "name": "ZERDALİTEPE-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355"
+            },
+            {
+              "code": "355-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULS-ZERDALİTEPE-YEŞİLBAYIR-MAMAK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355-6"
+            },
+            {
+              "code": "357",
+              "name": "KIBRISKÖYÜ-SAĞDUYU CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=357"
+            },
+            {
+              "code": "359",
+              "name": "GÖKÇEYURT-ORTAKÖY-KIZILCAKÖY-MAMAK-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=359"
+            },
+            {
+              "code": "359-1",
+              "name": "GÖKÇEYURT-ORTAKÖY-ORTAKÖY MEZARLIĞI-KIZILCAKÖY-MAMAK-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=359-1"
+            },
+            {
+              "code": "361",
+              "name": "YEŞİLBAYIR-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=361"
+            },
+            {
+              "code": "363",
+              "name": "KUSUNLAR-MAMAK-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=363"
+            },
+            {
+              "code": "374",
+              "name": "ZERDALİTEPE-MAMAK-DİKİMEVİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=374"
+            },
+            {
+              "code": "377",
+              "name": "ŞAHAPGÜRLER-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=377"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/safaktepe-kadin-danisma-birimi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-sentepe-kadin-danisma-merkezi",
+      "kind": "service",
+      "serviceIds": [
+        "place-sentepe-kadin-danisma-merkezi"
+      ],
+      "name": "Şentepe Kadın Danışma  Merkezi",
+      "address": "Güventepe Mah. Demirdağ Cad. No: 3 Yenimahalle/Ankara",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "20718",
+          "name": "Güventepe Muhtarlık",
+          "position": "Yakında · yaklaşık 140 m",
+          "distanceMeters": 140,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/11389765638",
+          "lines": [
+            {
+              "code": "275",
+              "name": "HASTANE METRO-KARŞIYAKA-ŞENTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=275"
+            }
+          ]
+        },
+        {
+          "code": "20708",
+          "name": "Muhtarlık",
+          "position": "Yakında · yaklaşık 150 m",
+          "distanceMeters": 150,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13907068608",
+          "lines": [
+            {
+              "code": "275",
+              "name": "HASTANE METRO-KARŞIYAKA-ŞENTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=275"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=275",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/sentepe-kadin-danisma-merkezi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-mamak-genclik-merkezi",
+      "kind": "service",
+      "serviceIds": [
+        "place-mamak-genclik-merkezi"
+      ],
+      "name": "Mamak Gençlik Merkezi",
+      "address": "Saime Kadın Mah.asım Gündüz Cad.kat:1 No:1",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "30502",
+          "name": "Abidinpaşa Anadolu Lisesi",
+          "position": "Yakında · yaklaşık 60 m",
+          "distanceMeters": 60,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/6323689032",
+          "lines": [
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            },
+            {
+              "code": "330",
+              "name": "EGE MH.-LOJMAN-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ABB BİNASI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330"
+            },
+            {
+              "code": "336",
+              "name": "YAKUPABDAL-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=336"
+            },
+            {
+              "code": "336-1",
+              "name": "YAKUPABDAL-OPERA-ELMADAĞ KAYAK MERKEZİ-KARKENT SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=336-1"
+            },
+            {
+              "code": "339-5",
+              "name": "(ÖTA) EGE MAHALLESİ-SIHHİYE-KIZILAY-ANKARA ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-5"
+            },
+            {
+              "code": "339-7",
+              "name": "(ÖHO) EGE MH.-BEŞTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-7"
+            },
+            {
+              "code": "340",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340"
+            },
+            {
+              "code": "341",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341"
+            },
+            {
+              "code": "341-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULUS-EGE MH.-MİSKET MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341-6"
+            },
+            {
+              "code": "346",
+              "name": "EGE MAHALLESİ-DİKİMEVİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=346"
+            },
+            {
+              "code": "364",
+              "name": "ZİRVEKENT-EGE MAHALLESİ-METEHAN-NATOYOLU CD.-DİKİMEVİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=364"
+            },
+            {
+              "code": "365",
+              "name": "MİSKET MH.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=365"
+            },
+            {
+              "code": "367",
+              "name": "ŞİRİNTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=367"
+            },
+            {
+              "code": "373",
+              "name": "ZABITA BLOKLARI-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=373"
+            },
+            {
+              "code": "731",
+              "name": "MAMAK BÖLGE ADLİYE-BALGAT EK BİNA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=731"
+            },
+            {
+              "code": "732",
+              "name": "MAMAK DIŞKAPI ADLİYE-ADALET SARAYI-AİLE-İCRA MAHKEMELERİ BALGAT ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=732"
+            }
+          ]
+        },
+        {
+          "code": "30508",
+          "name": "Abidinpaşa Anadolu Lisesi ",
+          "position": "Yakında · yaklaşık 70 m",
+          "distanceMeters": 70,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10748532721",
+          "lines": [
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            },
+            {
+              "code": "330",
+              "name": "EGE MH.-LOJMAN-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ABB BİNASI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330"
+            },
+            {
+              "code": "330-2",
+              "name": "ABB BİNASI-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ-LOJMAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330-2"
+            },
+            {
+              "code": "336",
+              "name": "YAKUPABDAL-OPERA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=336"
+            },
+            {
+              "code": "336-1",
+              "name": "YAKUPABDAL-OPERA-ELMADAĞ KAYAK MERKEZİ-KARKENT SİTESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=336-1"
+            },
+            {
+              "code": "339-5",
+              "name": "(ÖTA) EGE MAHALLESİ-SIHHİYE-KIZILAY-ANKARA ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-5"
+            },
+            {
+              "code": "339-7",
+              "name": "(ÖHO) EGE MH.-BEŞTEPE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-7"
+            },
+            {
+              "code": "340",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340"
+            },
+            {
+              "code": "340-2",
+              "name": "DDY-BEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340-2"
+            },
+            {
+              "code": "341",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341"
+            },
+            {
+              "code": "341-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULUS-EGE MH.-MİSKET MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341-6"
+            },
+            {
+              "code": "346",
+              "name": "EGE MAHALLESİ-DİKİMEVİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=346"
+            },
+            {
+              "code": "364",
+              "name": "ZİRVEKENT-EGE MAHALLESİ-METEHAN-NATOYOLU CD.-DİKİMEVİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=364"
+            },
+            {
+              "code": "365",
+              "name": "MİSKET MH.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=365"
+            },
+            {
+              "code": "367",
+              "name": "ŞİRİNTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=367"
+            },
+            {
+              "code": "373",
+              "name": "ZABITA BLOKLARI-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=373"
+            },
+            {
+              "code": "731",
+              "name": "MAMAK BÖLGE ADLİYE-BALGAT EK BİNA",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=731"
+            },
+            {
+              "code": "732",
+              "name": "MAMAK DIŞKAPI ADLİYE-ADALET SARAYI-AİLE-İCRA MAHKEMELERİ BALGAT ADLİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=732"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/mamak-genclik-merkezi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "place-yenimahalle-genclik-merkezi",
+      "kind": "service",
+      "serviceIds": [
+        "place-yenimahalle-genclik-merkezi"
+      ],
+      "name": "Yenimahalle Gençlik Merkezi",
+      "address": "Emniyet M.silahtar C.36",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11456",
+          "name": "Gazi Üniversitesi Merkez Kampüsü",
+          "position": "Yakında · yaklaşık 110 m",
+          "distanceMeters": 110,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/12959986399",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "449",
+              "name": "AKKÖPRÜ-MİLLET KÜTÜPHANESİ-GAZİ MAHALLESİ-ÇİFTLİK KAVŞAĞI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=449"
+            },
+            {
+              "code": "506-1",
+              "name": "SİNCAN AHİ MESUD BLV.-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=506-1"
+            },
+            {
+              "code": "513-1",
+              "name": "SİNCAN-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=513-1"
+            },
+            {
+              "code": "518-1",
+              "name": "FATİH-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=518-1"
+            },
+            {
+              "code": "519-1",
+              "name": "GOP(FATİH)-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=519-1"
+            },
+            {
+              "code": "542",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542"
+            },
+            {
+              "code": "542-1",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542-1"
+            },
+            {
+              "code": "543-1",
+              "name": "ERYAMAN-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=543-1"
+            }
+          ]
+        },
+        {
+          "code": "11476",
+          "name": "Gazi Üniversitesi Merkez Kampüsü",
+          "position": "Yakında · yaklaşık 130 m",
+          "distanceMeters": 130,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/12959986400",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "449",
+              "name": "AKKÖPRÜ-MİLLET KÜTÜPHANESİ-GAZİ MAHALLESİ-ÇİFTLİK KAVŞAĞI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=449"
+            },
+            {
+              "code": "506-2",
+              "name": "BEŞEVLER-SİNCAN AHİ MESUD BLV.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=506-2"
+            },
+            {
+              "code": "513-2",
+              "name": "BEŞEVLER-SİNCAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=513-2"
+            },
+            {
+              "code": "518-2",
+              "name": "BEŞEVLER-FATİH",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=518-2"
+            },
+            {
+              "code": "519-2",
+              "name": "BEŞEVLER-GOP(FATİH)",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=519-2"
+            },
+            {
+              "code": "542",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542"
+            },
+            {
+              "code": "542-1",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542-1"
+            },
+            {
+              "code": "543-2",
+              "name": "BEŞEVLER-ERYAMAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=543-2"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7",
+      "coordinateSourceUrl": "https://www.ankara.bel.tr/tesis/yenimahalle-genclik-merkezi",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "food-kizilay",
+      "kind": "service",
+      "serviceIds": [
+        "food-kizilay",
+        "study-yuzuncuyil"
+      ],
+      "name": "100. Yıl Gençlik Sofrası",
+      "address": "İzmir 2 Caddesi, Kızılay / Ankara",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "14558",
+          "name": "Kızılay",
+          "position": "İzmir 2 Caddesi çevresinde",
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13072395864",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            }
+          ]
+        },
+        {
+          "code": "14557",
+          "name": "Kızılay",
+          "position": "İzmir 2 Caddesi çevresinde",
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13072395863",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "coordinateSourceUrl": "https://maps.app.goo.gl/uYAhzisHyRCw89RB9",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "food-sihhiye",
+      "kind": "service",
+      "serviceIds": [
+        "food-sihhiye"
+      ],
+      "name": "Sıhhiye Gençlik Sofrası",
+      "address": "Sıhhiye Çok Katlı Otopark, 1. kat",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "30055",
+          "name": "Kolej",
+          "position": "Yakında · yaklaşık 300 m",
+          "distanceMeters": 300,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/10749501419",
+          "lines": [
+            {
+              "code": "160",
+              "name": "ULUS-KIZILAY-SEYRANBAĞLARI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=160"
+            },
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            },
+            {
+              "code": "321",
+              "name": "KARAPÜRÇEK-ESKİYOL-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=321"
+            },
+            {
+              "code": "321-6",
+              "name": "15 TEM.KIZ.MİLLİ İRADE MEYDANI-SIH.-ULUS-KARPRÇK-BEŞİKKAYA-BAŞAK MAH-ALTM",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=321-6"
+            },
+            {
+              "code": "324",
+              "name": "EKİN MH.-ÇATAK CD.-ÇİĞİLTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=324"
+            },
+            {
+              "code": "326",
+              "name": "BAHÇELERÜSTÜ TOKİ-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=326"
+            },
+            {
+              "code": "329",
+              "name": "EKİN MH.-ALTMIŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=329"
+            },
+            {
+              "code": "330",
+              "name": "EGE MH.-LOJMAN-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ABB BİNASI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330"
+            },
+            {
+              "code": "333",
+              "name": "İMRAHOR-BADEMLİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=333"
+            },
+            {
+              "code": "334",
+              "name": "ZİRVEKENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334"
+            },
+            {
+              "code": "334-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS-MAMAK-BOĞAZİÇİ-AKŞEMSETT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=334-6"
+            },
+            {
+              "code": "338",
+              "name": "EGE MAHALLESİ-846.CD.-MAMAK-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=338"
+            },
+            {
+              "code": "339-5",
+              "name": "(ÖTA) EGE MAHALLESİ-SIHHİYE-KIZILAY-ANKARA ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=339-5"
+            },
+            {
+              "code": "340",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340"
+            },
+            {
+              "code": "341",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341"
+            },
+            {
+              "code": "341-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULUS-EGE MH.-MİSKET MH.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341-6"
+            },
+            {
+              "code": "343",
+              "name": "ALTIAĞAÇ-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=343"
+            },
+            {
+              "code": "349",
+              "name": "ARAPLAR-DERBENT-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=349"
+            },
+            {
+              "code": "350",
+              "name": "TEPECİK-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=350"
+            },
+            {
+              "code": "351",
+              "name": "AKŞEMSETTİN-SU DEPOSU-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=351"
+            },
+            {
+              "code": "353",
+              "name": "BOĞAZİÇİ-4.CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=353"
+            },
+            {
+              "code": "355",
+              "name": "ZERDALİTEPE-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355"
+            },
+            {
+              "code": "355-6",
+              "name": "15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIH.-ULS-ZERDALİTEPE-YEŞİLBAYIR-MAMAK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=355-6"
+            },
+            {
+              "code": "357",
+              "name": "KIBRISKÖYÜ-SAĞDUYU CD.-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=357"
+            },
+            {
+              "code": "361",
+              "name": "YEŞİLBAYIR-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=361"
+            },
+            {
+              "code": "365",
+              "name": "MİSKET MH.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=365"
+            },
+            {
+              "code": "367",
+              "name": "ŞİRİNTEPE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=367"
+            },
+            {
+              "code": "377",
+              "name": "ŞAHAPGÜRLER-MAMAK-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=377"
+            },
+            {
+              "code": "380",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=380"
+            },
+            {
+              "code": "381",
+              "name": "TÜRKÖZÜ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381"
+            },
+            {
+              "code": "381-1",
+              "name": "TÜRKÖZÜ-558.CD.-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=381-1"
+            },
+            {
+              "code": "382",
+              "name": "MUTLU MH.-AKDERE-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-SIHHİYE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=382"
+            },
+            {
+              "code": "383",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=383"
+            },
+            {
+              "code": "392",
+              "name": "DOĞANTEPE-4 CD.-DİKİMEVİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ULUS",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=392"
+            }
+          ]
+        },
+        {
+          "code": "11630",
+          "name": "Mithatpaşa Caddesi",
+          "position": "Yakında · yaklaşık 330 m",
+          "distanceMeters": 330,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/9907970988",
+          "lines": [
+            {
+              "code": "261",
+              "name": "KASALAR-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=261"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "coordinateSourceUrl": "https://maps.app.goo.gl/BQsb9ZfRtJab1A1K8",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "food-anittepe",
+      "kind": "service",
+      "serviceIds": [
+        "food-anittepe"
+      ],
+      "name": "Anıttepe Gençlik Sofrası",
+      "address": "Anıttepe Mahallesi, Kubilay Sokak No:2",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11512",
+          "name": "Anadolu Meydanı",
+          "position": "Yakında · yaklaşık 100 m",
+          "distanceMeters": 100,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/13798520963",
+          "lines": [
+            {
+              "code": "267",
+              "name": "ETLİK-KAZIM KARABEKİR-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=267"
+            },
+            {
+              "code": "267-2",
+              "name": "ETLİK-KAZIM KARABEKİR-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=267-2"
+            },
+            {
+              "code": "402",
+              "name": "BAŞKENT KÜLTÜR TURU-ULUS-GAR-ANITKABİR-KIZILAY-HAMAMÖNÜ-ULUCANLAR-KALE",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=402"
+            }
+          ]
+        },
+        {
+          "code": "11538",
+          "name": "Anadolu Meydanı",
+          "position": "Yakında · yaklaşık 110 m",
+          "distanceMeters": 110,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/14046194349",
+          "lines": [
+            {
+              "code": "297-7",
+              "name": "(ÖHO) MUTLU MH.-BATIKENT",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=297-7"
+            },
+            {
+              "code": "298-7",
+              "name": "(ÖHO) MUTLU MAHALLESİ-ETLİK ŞEHİR HASTANESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=298-7"
+            },
+            {
+              "code": "330",
+              "name": "EGE MH.-LOJMAN-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-ABB BİNASI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330"
+            },
+            {
+              "code": "330-2",
+              "name": "ABB BİNASI-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ-LOJMAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=330-2"
+            },
+            {
+              "code": "340",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340"
+            },
+            {
+              "code": "340-2",
+              "name": "DDY-BEŞEVLER-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-EGE MAHALLESİ",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=340-2"
+            },
+            {
+              "code": "341",
+              "name": "EGE MAHALLESİ-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=341"
+            },
+            {
+              "code": "380",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=380"
+            },
+            {
+              "code": "383",
+              "name": "AKDERE-PEYAMİSAFA-15 TEMMUZ KIZILAY MİLLİ İRADE MEYDANI-BEŞEVLER-DDY",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=383"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "coordinateSourceUrl": "https://maps.app.goo.gl/NGBxy3gZG5vnzxgT9",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "id": "food-gazi",
+      "kind": "service",
+      "serviceIds": [
+        "food-gazi"
+      ],
+      "name": "Gazi Mahallesi Gençlik Sofrası",
+      "address": "Emniyet Mahallesi, Silahtar Caddesi No:36",
+      "aliases": [],
+      "busStops": [
+        {
+          "code": "11456",
+          "name": "Gazi Üniversitesi Merkez Kampüsü",
+          "position": "Yakında · yaklaşık 60 m",
+          "distanceMeters": 60,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/12959986399",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "449",
+              "name": "AKKÖPRÜ-MİLLET KÜTÜPHANESİ-GAZİ MAHALLESİ-ÇİFTLİK KAVŞAĞI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=449"
+            },
+            {
+              "code": "506-1",
+              "name": "SİNCAN AHİ MESUD BLV.-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=506-1"
+            },
+            {
+              "code": "513-1",
+              "name": "SİNCAN-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=513-1"
+            },
+            {
+              "code": "518-1",
+              "name": "FATİH-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=518-1"
+            },
+            {
+              "code": "519-1",
+              "name": "GOP(FATİH)-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=519-1"
+            },
+            {
+              "code": "542",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542"
+            },
+            {
+              "code": "542-1",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542-1"
+            },
+            {
+              "code": "543-1",
+              "name": "ERYAMAN-BEŞEVLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=543-1"
+            }
+          ]
+        },
+        {
+          "code": "11476",
+          "name": "Gazi Üniversitesi Merkez Kampüsü",
+          "position": "Yakında · yaklaşık 100 m",
+          "distanceMeters": 100,
+          "locationSourceUrl": "https://www.openstreetmap.org/node/12959986400",
+          "lines": [
+            {
+              "code": "220-7",
+              "name": "(ÖHO) MAMAK-BATIKENT JANDARMA-BAKANLIK",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=220-7"
+            },
+            {
+              "code": "449",
+              "name": "AKKÖPRÜ-MİLLET KÜTÜPHANESİ-GAZİ MAHALLESİ-ÇİFTLİK KAVŞAĞI",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=449"
+            },
+            {
+              "code": "506-2",
+              "name": "BEŞEVLER-SİNCAN AHİ MESUD BLV.",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=506-2"
+            },
+            {
+              "code": "513-2",
+              "name": "BEŞEVLER-SİNCAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=513-2"
+            },
+            {
+              "code": "518-2",
+              "name": "BEŞEVLER-FATİH",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=518-2"
+            },
+            {
+              "code": "519-2",
+              "name": "BEŞEVLER-GOP(FATİH)",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=519-2"
+            },
+            {
+              "code": "542",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542"
+            },
+            {
+              "code": "542-1",
+              "name": "ERYAMAN-SEZENLER",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=542-1"
+            },
+            {
+              "code": "543-2",
+              "name": "BEŞEVLER-ERYAMAN",
+              "sourceUrl": "https://www.ego.gov.tr/HareketSaatleri?hat_no=543-2"
+            }
+          ]
+        }
+      ],
+      "rail": [],
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "coordinateSourceUrl": "https://maps.app.goo.gl/LnoJqT5bj3XC78uw9",
+      "checkedAt": "2026-10-02"
+    }
+  ],
+  "coordinatesAttribution": "© OpenStreetMap contributors · ODbL",
+  "coordinatesSnapshotAt": "2026-10-02T07:48:21Z",
+  "distanceMethod": "straight-line"
+}

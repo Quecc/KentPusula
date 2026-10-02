@@ -1,0 +1,45 @@
+{
+  "points": [
+    {
+      "serviceId": "food-anittepe",
+      "address": "Anıttepe Mahallesi, Kubilay Sokak No:2",
+      "checkedAt": "2026-10-02",
+      "latitude": 39.93316,
+      "longitude": 32.8388346,
+      "coordinateSourceUrl": "https://maps.app.goo.gl/NGBxy3gZG5vnzxgT9",
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "approximate": false
+    },
+    {
+      "serviceId": "food-gazi",
+      "address": "Emniyet Mahallesi, Silahtar Caddesi No:36",
+      "checkedAt": "2026-10-02",
+      "latitude": 39.943674,
+      "longitude": 32.819785,
+      "coordinateSourceUrl": "https://maps.app.goo.gl/LnoJqT5bj3XC78uw9",
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "approximate": false
+    },
+    {
+      "serviceId": "food-sihhiye",
+      "address": "Sıhhiye Çok Katlı Otopark, 1. kat",
+      "checkedAt": "2026-10-02",
+      "latitude": 39.9259329,
+      "longitude": 32.8597934,
+      "coordinateSourceUrl": "https://maps.app.goo.gl/BQsb9ZfRtJab1A1K8",
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "approximate": false
+    },
+    {
+      "serviceId": "food-kizilay",
+      "serviceIds": ["food-kizilay", "study-yuzuncuyil"],
+      "address": "İzmir 2 Caddesi, Kızılay / Ankara",
+      "checkedAt": "2026-10-02",
+      "latitude": 39.9209497,
+      "longitude": 32.850989,
+      "coordinateSourceUrl": "https://maps.app.goo.gl/uYAhzisHyRCw89RB9",
+      "sourceUrl": "https://gencliksofralari.ankara.bel.tr/",
+      "approximate": true
+    }
+  ]
+}

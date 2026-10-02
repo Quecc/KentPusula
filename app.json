@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "KentPusula",
+    "slug": "kentpusula",
+    "version": "0.3.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kentpusula.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F3ED",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.kentpusula.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "output": "single"
+    },
+    "scheme": "kentpusula",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "KentPusula yakınındaki hizmetlerin mesafesini göstermek için konumunu kullanır."
+        }
+      ],
+      "expo-font",
+      "expo-router"
+    ]
+  }
+}
